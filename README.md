@@ -1,3 +1,3 @@
-# worth
+# worth-MachineLearning
 
-`worth` is a platform to estimate salary based on skills, behavior, and demographics by using `Machine Learning`, while providing `career analytics` to help job seekers make informed decisions.
+This repo houses **ML model development files** for `worth`, a tool that estimates salaries based on skills, behavior, and demographic data of students. It includes data collection, cleaning, model training, and tuning.
