@@ -1,0 +1,671 @@
+domain,batch,placed_company,designation,age,degree,cs_bg,experience,avg_time,holidays,week_back,city,skills,graduated,salary
+Web Development Using Python Django,BCK01,VNC Digital Services,Software Engineer,22.0,No Degree,No,No,9.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Web Development Using Node.js Express,BCK01,Emstell Technology Consulting,Software Engineer,21.0,Degree,No,No,12.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.16
+Web Development Using Python Django,BCK01,Creative Panda,Node JS Developer,22.0,Degree,Yes,No,9.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.4
+MERN Stack,BCK01,NORQ Technologies,Software Developer,23.0,No Degree,No,No,11.0,Yes,7.0,Chennai,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.55
+Web Development Using Python Django,BCK01,ActionFi,Software Engineer,22.0,No Degree,No,No,10.0,No,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.4
+MERN Stack,BCK01,Spericorn Technology Pvt. Ltd.,Node JS Developer,21.0,Degree,No,No,12.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.4
+MERN Stack,BCK01,Short Castle Technologies Pvt Ltd,Software Developer,21.0,No Degree,Yes,No,8.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.2
+Web Development Using Python Django,BCK01,Saasvaap Techies Pvt Ltd,Software Developer,27.0,No Degree,No,Yes [ Non IT industry ],12.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,1.8
+Web Development Using Python Django,BCK02,Motionray,Django Developer ,23.0,Degree,No,No,10.0,No,3.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+DevOps,BCK02,VVDN Technologies,Assistant Manager (IT),22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,8.0
+Mobile Development Using Android Kotlin,BCK02,Stackatech,Android Developer,24.0,Degree,Yes,No,10.0,Yes,5.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.4
+Web Development Using Python Django,BCK02,Vanilla Networks Pvt Ltd,Software Engineer,22.0,Degree,No,No,12.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,2.58
+MERN Stack,BCK02,Alignminds Technology,Junior Software Engineer,24.0,Degree,No,No,12.0,No,2.0,Bangalore,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,2.7
+Web Development Using Python Django,BCK02,ActionFi,Software Engineer,24.0,Degree,No,No,10.0,Yes,7.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,2.4
+Web Development Using Python Django,BCK02,Citrus Informatics Pvt. Ltd.,Jr. Software Engineer,22.0,Degree,Yes,No,11.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,1.8
+Web Development Using Python Django,BCK03,MonkMind solutions Private Ltd,Software Developer,22.0,No Degree,No,No,13.0,Yes,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCK03,VNC Digital Services,Software Engineer,23.0,Degree,Yes,No,10.0,Yes,1.0,WFH,"React, Node, Html, CSS, Mongodb",Yes,3.0
+MERN Stack,BCK03,Spericorn Technology Pvt. Ltd.,Fulll Stack Developer,23.0,No Degree,No,No,12.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,2.64
+MERN Stack,BCK03,Emstell Technology Consulting,Jr Node js Developer,24.0,Degree,Yes,No,12.0,Yes,1.0,Bangalore,"React,Python,SQL,Django,Html,Css",Yes,2.16
+Web Development Using Python Django,BCK03,Creative Panda,Python Developer,24.0,No Degree,No,No,15.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,2.64
+Web Development Using Python Django,BCK03,Lanware Solutions,Software Engineer,22.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,4.0,Bangalore,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,3.36
+Web Development Using Python Django,BCK03,Skewall,Full Stack Developer,22.0,No Degree,No,No,15.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Node.js Express,BCK03,Alignminds Technology,Software Engineer,25.0,Diploma,No,Yes [ Non IT industry ],13.0,Yes,0.0,Hyderabad ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Mobile Development Using Android Kotlin,BCK04,QubeDynamics,Junior Android Developer,22.0,Degree,Yes,No,12.0,Yes,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.76
+MERN Stack,BCK04,Spericorn Technology Pvt. Ltd.,Node Js Trainee,22.0,Degree,Yes,No,12.0,Yes,4.0,Hyderabad,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,2.4
+Cybersecurity,BCK04,Sky is Limit Technologies,Software Engineer,22.0,No Degree,No,No,12.0,No,7.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,1.8
+MERN Stack,BCK05,Deepnetsoft Private Limited.,Junior Full Stack Developer,21.0,Degree,No,No,12.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+Machine Learning,BCK05,Gritstone Technology,Product Engineer -AI/ML,24.0,No Degree,No,No,12.0,No,3.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.4
+Web Development Using Python Django,BCK06,Farmers Fresh Zone,Junior Software Engineer,23.0,No Degree,No,No,12.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Web Development Using Python Django,BCK06,Phantom FX,Jr Full Stack Python Developer,21.0,No Degree,No,No,10.0,No,5.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.24
+MERN Stack,BCK06,Hoorryy Pvt Ltd,MERN Stack Developer,21.0,No Degree,No,No,9.0,No,5.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+MERN Stack,BCK07,ECESIS Technologies,MERN Stack Developer,22.0,Degree,Yes,No,9.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.7
+MERN Stack,BCK07,Tacnik Technologies Pvt. Ltd.,Product Engineer ,24.0,No Degree,No,No,12.0,No,7.0,Kochi,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCK07,Cybaze Technologies Pvt Ltd,Node Js Developer,21.0,No Degree,No,No,10.0,No,7.0,Hyderabad,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,2.4
+Web Development Using Python Django,BCK07,Loop Reality(Perspect ai),Python Developer Intern,23.0,No Degree,No,No,12.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.4
+Web Development Using Node.js Express,BCK07,Cybaze Technologies Pvt Ltd,Node js Developer ,24.0,No Degree,No,Yes [ Non IT industry ],14.0,Yes,0.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,2.4
+Web Development Using Python Django,BCK07,Computing Freedom Collective,Python Django Developer,23.0,Degree,No,No,14.0,Yes,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.64
+Web Development Using Python Django,BCK08,Sequoia Applied Technologies.,Software Engineer,22.0,No Degree,Yes,No,12.0,Yes,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.25
+Web Development Using Python Django,BCK08,SalesApp,Back-end Developer,22.0,No Degree,No,No,13.0,Yes,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+Mobile Development Using Flutter,BCK08,Zydex Innovations,Mobile App Developer,22.0,No Degree,Yes,No,9.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+Web Development Using Python Django,BCK08,Tegain Technologies,Software Developer,23.0,No Degree,No,No,10.0,Yes,7.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,2.4
+MERN Stack,BCK08,Stargram,Jr Software Engineer,22.0,Degree,Yes,No,12.0,Yes,4.0,Hyderabad,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.52
+Web Development Using Python Django,BCK08,Tessact Pvt. Ltd.,Software Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"Dart,Api integration,",Yes,6.5
+Web Development Using Python Django,BCK08,Techjays,Software Developer,24.0,No Degree,No,No,11.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Python Django,BCK08,Creative Panda,Python developer,22.0,No Degree,No,No,9.0,Yes,7.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,2.64
+MERN Stack,BCK08,Stargram,Software Developer,26.0,Degree,No,Yes [ Non IT industry ],13.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,2.2
+Web Development Using Node.js Express,BCK10,aTeam Soft Solutions,Node.Js developer,24.0,No Degree,No,Yes [ Non IT industry ],12.0,No,0.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.84
+Mobile Development Using Flutter,BCK10,BackB Solutions LLP,Flutter Developer,21.0,No Degree,Yes,No,9.0,Yes,7.0,Calicut ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.5
+Web Development Using Python Django,BCK10,Cybaze Technologies Pvt Ltd,Python Developer,22.0,Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.0
+Web Development Using Python Django,BCE09,Stargram,Junior software Engineer,22.0,Degree,No,No,10.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.2
+Web Development Using Python Django,BCE09,tekSystems (hp),Developer,22.0,Degree,Yes,No,10.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+Web Development Using Node.js Express,BCE09,Samaaro ,Poduct Engineer,23.0,Degree,No,No,11.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+Web Development Using Node.js Express,BCE09,Natural Minds,Node.js Developer,22.0,No Degree,No,No,10.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Web Development Using Node.js Express,BCE09, Lanware Solutions,Associate Engineer,22.0,No Degree,No,No,14.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.4
+Mobile Development Using Flutter,BCK06, SciWiz Innovations Pvt. Ltd.,Flutter Developer,23.0,Degree,No,No,13.0,Yes,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+MERN Stack,BCK10,Airvee,Software Developer,23.0,No Degree,Yes,No,8.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Web Development Using Python Django,BCK10,YouGotaGift Pvt. Ltd.,Technical Team,22.0,Degree,Yes,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+Web Development Using Python Django,BCE09,"Artivatic, Blore",Backend Developer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Web Development Using Python Django,BCE09,Maxzon Softwares,Intern CTO,22.0,No Degree,No,No,10.0,No,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCE11,AOT Technologies,Developer,22.0,No Degree,No,No,10.0,No,2.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.5
+MERN Stack,BCE14,tekSystems (hp),Developer,22.0,Degree,Yes,No,10.0,Yes,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCK10,Pardy Panda Studios Pvt. Ltd.,MERN Stack Developer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+Web Development Using Node.js Express,BCK10,Approlabs,Jr Software Engineer,22.0,No Degree,No,No,9.0,No,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+Web Development Using Python Django,BCE09,Accubits,Developer,22.0,Degree,Yes,No,12.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Web Development Using Node.js Express,BCK10,Pardy Panda Studios Pvt. Ltd.,Jr Software Engineer,22.0,Degree,No,No,12.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Web Development Using Python Django,BCE09,iTday India Pvt. Ltd.,Fullstack Developer,22.0,Degree,No,No,10.0,Yes,1.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+Mobile Development Using Flutter,BCE14,Carclenx,Flutter Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Mobile Development Using Flutter,BCE16,Edvoy,Junior flutter developer,22.0,Degree,Yes,No,10.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCE14,Fine Kube Private Solutions,Developer,22.0,No Degree,No,No,9.0,No,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Mobile Development Using Flutter,BCE14,LLP Software Solutions,Flutter Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,6.0
+MERN Stack,BCE16,Cubet Techno Labs,Node.js developer,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.7
+MERN Stack,BCE12,Rough Paper Technologies,Node js Developer,23.0,No Degree,No,No,11.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Mobile Development Using Flutter,BCK13,Shipnext,Flutter developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,6.36
+Mobile Development Using Swift,BCE14,Hubspire,iOS Developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+Mobile Development Using Flutter,BCK13,Digimogo,Flutter Developer,23.0,Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.2
+Mobile Development Using Flutter,BCK13,Digimogo,Flutter Developer,22.0,No Degree,Yes,No,8.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.2
+MERN Stack,BCE14,AOT Technologies,Software Developer,23.0,Degree,No,No,9.0,Yes,5.0,Calicut ,"Dart,Api integration,",Yes,3.6
+Web Development Using Python Django,BCK13,iBoson,Python Developer,22.0,Degree,No,No,12.0,Yes,2.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.5
+MERN Stack,BCE14,Carclenx,MERN Stack Developer,23.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.36
+Mobile Development Using Android Kotlin,BCE12,Vajro India Private Limited,Software Developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.65
+MERN Stack,BCE16,ANJ America Company,MERN Stack Developer,22.0,Degree,Yes,No,10.0,No,2.0,Chennai works from office ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+MERN Stack,BCE16,ANJ America Company,MERN Stack Developer,23.0,Degree,Yes,No,9.0,No,1.0,Trivandrum ,"React js ,React query",Yes,4.8
+MERN Stack,BCE14,Experion Global Technologies,MERN Stack Developer,22.0,Degree,Yes,No,13.0,Yes,4.0,Calicut ,"React, Node, Html, CSS, Mongodb",Yes,4.0
+Web Development Using Python Django,BCE14,Vofox Solutions,Junior software Engineer,23.0,Degree,Yes,No,12.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.96
+Web Development Using Python Django,BCE12,Bizviz Technologies,Assosiate Software Engineer,23.0,No Degree,No,No,13.0,Yes,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Android Kotlin,BCE12,DIATOZ,Software developer Engineer,22.0,No Degree,Yes,No,13.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+Mobile Development Using Swift,BCK15,Pardy Panda Studios Pvt. Ltd.,iOS Developer,21.0,Degree,No,No,16.0,Yes,0.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,3.6
+MERN Stack,BCE14,Syngene International,Executive Research Informatics,23.0,Degree,No,No,15.0,Yes,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCE14,Septa Milles Pvt. Ltd.,Full Stack Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE16,Fingent Global Solutions Pvt. Ltd.,Web GL Developer,23.0,No Degree,No,Yes [ Non IT industry ],15.0,Yes,0.0,Bangalore,"React, Node, Nest, Next, HTML, CSS, MUI, Socket.io, MongoDB, Javascript, Bootstrap, Tailwind CSS, jQuery, Redux, Express JS, Mongoose, JWT, Git, Postman, Firebase, Vercel, Nginx",Yes,3.6
+MERN Stack,BCK15,Electronikmedia, Jr. Software Engineer,21.0,Degree,No,No,12.0,No,2.0,On site,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+MERN Stack,BCK15,Intugine Technologies Pvt. Ltd,Jr. Software Engineer,19.0,No Degree,No,No,16.0,Yes,2.0,Nagercoil ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Web Development Using Python Django,BCE14,Socially X,Software Development Engineer I,22.0,Degree,No,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.1
+MERN Stack,BCE16,SHARP,Independent Consultant,22.0,Degree,No,No,10.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCK15,Edumetrix Learning Solutions Pvt Ltd. ,Software Engineer,21.0,Degree,Yes,No,14.0,Yes,7.0,Chennai,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,5.3
+MERN Stack,BCK15,Handaji Tech Solutions Private Limited,Software Engineer,19.0,No Degree,Yes,No,12.0,Yes,4.0,Chennai works from office ,"React,Python,SQL,Django,Html,Css",Yes,6.0
+MERN Stack,BCE14,Septa Milles Pvt. Ltd.,Fullstack Developer,26.0,Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,Calicut ,"Python, Django, SQL, Git, AWS, Digital Ocean, HTML, CSS, React, Data Structure, Communication ",Yes,4.8
+Web Development Using Python Django,BCK13,Freston Analytics,Data Engineer ,21.0,Degree,Yes,No,12.0,No,4.0,Manjeri Malappuram ,"React,Python,SQL,Django,Html,Css",Yes,5.0
+Web Development Using Python Django,BCK13,Freston Analytics,Data Engineer ,23.0,No Degree,Yes,No,9.0,No,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+MERN Stack,BCK15,Mapout Pvt. Ltd.,Frontend Developer,21.0,No Degree,No,No,12.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.5
+Mobile Development Using Flutter,BCE16,Staxlabs Inc Pvt Ltd,Flutter Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+MERN Stack,BCE17,NewAgeSys Solutions  ,Software Engineer Trainee,22.0,No Degree,Yes,No,9.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+MERN Stack,BCK15,Intugine Technologies Pvt. Ltd,Software Engineer,21.0,Degree,Yes,No,12.0,No,4.0,Chennai works from office ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,6.0
+MERN Stack,BCK15,Freston Analytics,Software Developer,22.0,No Degree,Yes,No,11.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Web Development Using Python Django + React,BCK15,Tectra Tech Snd Bhd,Full Stack Developer,22.0,No Degree,No,No,13.0,Yes,3.0,Manjeri,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+Web Development Using Python Django + React,BCK15,The Data Duck,Python Developer,22.0,Degree,No,No,15.0,Yes,1.0,Manjeri,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,13.0
+Web Development Using Python Django,BCK15,Turbolab Technologies ,Junior Back end Developer,21.0,No Degree,No,No,16.0,Yes,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+MERN Stack,BCK15,Fair Code Technologies,Mern Stack Developer,19.0,No Degree,No,No,16.0,Yes,3.0,Office,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+MERN Stack,BCK15,Mapout Pvt. Ltd.,Full Stack Developer,22.0,Degree,Yes,No,14.0,Yes,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,7.5
+MERN Stack,BCE17,Infosys,Senior Systems Engineer,22.0,Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,6.0
+Mobile Development Using Flutter,BCK15,Protorix,Flutter Developer,21.0,No Degree,Yes,No,11.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK15,Fair Code Technologies,Mern Stack Developer,21.0,Degree,Yes,No,12.0,No,4.0,Manjeri Malappuram ,"React js ,React query",Yes,4.5
+Mobile Development Using Flutter,BCK15,Swish Digi Technologies,Junior flutter developer,21.0,Degree,Yes,No,16.0,Yes,1.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,3.6
+MERN Stack,BCE17,Paripoorna Software Solutions,Software Engineer Trainee,22.0,Degree,Yes,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Mobile Development Using Flutter,BCK15,Royal Magneto,Trainer-IP,21.0,Degree,No,No,11.0,No,4.0,On site,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+Mobile Development Using Flutter,BCK15,Klinik Everywhere Technologies Pvt. Ltd.,Software Engineer,21.0,Degree,Yes,No,15.0,Yes,0.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,4.2
+MERN Stack,BCK15,Iotics Middle east LLc,Mern Stack Developer,22.0,No Degree,No,No,15.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE14,Arclif technologies,Back End Developer,22.0,Degree,Yes,No,10.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+MERN Stack,BCE17,Nectar IT,Software Engineer,22.0,Degree,Yes,No,11.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+Mobile Development Using Flutter,BCE16,Desknine,Associate Software Engineer,23.0,No Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCK15,Fingent Global Solutions Pvt. Ltd.,Junior Software Engineer,19.0,No Degree,No,No,12.0,No,3.0,Office,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+Web Development Using Python Django,BCK15,YouGotaGift Pvt. Ltd.,Member of Technical Staff,22.0,Degree,Yes,No,13.0,Yes,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.12
+MERN Stack,BCE18,Alignminds Technology,Software Engineer Trainee,23.0,No Degree,Yes,No,11.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+Web Development Using Python Django,BCK15,YouGotaGift Pvt. Ltd.,Member of Technical Staff,21.0,No Degree,Yes,No,14.0,Yes,5.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.5
+Mobile Development Using Swift,BCE12,Chillar Payment Solutions,iOS Developer,23.0,No Degree,No,No,12.0,No,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+Web Development Using Python Django,BCE11,Net Sentries,Back End Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+MERN Stack,BCE18,Trois Infotech,Associate Software Engineer,21.0,Degree,Yes,No,10.0,No,4.0,Nagercoil ,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.9
+MERN Stack,BCE17,Inhabyt Technologies,Full Stack Developer,22.0,Degree,No,No,13.0,Yes,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.0
+MERN Stack,BCE14,Elixia Tech,Software Developer,22.0,No Degree,Yes,No,9.0,No,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,8.0
+Web Development Using Python Django,BCE16,Net Sentries,Associate Full Stack Developer,22.0,No Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,6.0
+Mobile Development Using Flutter,BCE16,Marketfeed,Software Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Dart,Api integration,",Yes,6.0
+MERN Stack,BCE18,Paripoorna Software Solutions,Trainee-Software Engineer,22.0,Degree,No,No,9.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCE16,Paripoorna Software Solutions,Software Engineer,22.0,No Degree,Yes,No,7.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+DevOps,BCK15,Accubits,Devops Engineer,21.0,Degree,No,No,16.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.4
+MERN Stack,BCK15,Matajar E Commerce LLP,Junior Back end Developer,21.0,Degree,Yes,No,15.0,Yes,2.0,Manjeri Malappuram ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,8.6
+Mobile Development Using Flutter,BCE16,Quiz ole,Flutter Developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.4
+MERN Stack,BCK15,Xcitech Technologies,MERN Stack Developer,22.0,Degree,Yes,No,12.0,No,2.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,7.4
+MERN Stack,BCE14,Unbox,Front End Developer,22.0,Degree,Yes,No,10.0,Yes,3.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.4
+MERN Stack,BCE17,CS Tech Info Solutions,Full Stack Developer,22.0,Degree,Yes,No,14.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.4
+Mobile Development Using Android Kotlin,BCK15,Gaian Solutions,Associate Android Developer,21.0,No Degree,Yes,No,12.0,Yes,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Blockchain,BCK15,Matic Network India,Block Chain Developer Intern,22.0,No Degree,Yes,No,14.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,2.7
+Web Development Using Python Django,BCE16,Alignminds Technology,Trainee-Software Engineer,22.0,Degree,Yes,No,9.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",No,4.8
+MERN Stack,BCE18,Chalo Exam,App Developer,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.4
+MERN Stack,BCK15,Fingent Global Solutions Pvt. Ltd.,Junior Software Engineer,22.0,No Degree,Yes,No,13.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Mobile Development Using Flutter,BCE17,F12 Technologies,Junior Software Engineer,23.0,No Degree,No,No,11.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE20,Blue Compute India,Full Stack Developer,23.0,No Degree,No,No,16.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Cybersecurity,BCK15,Krishagni Solutions,Intern - Member Of Technical Staff,22.0,No Degree,Yes,No,12.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,1.8
+MERN Stack,BCE17,CIED Technologies,Junior Back end Developer,22.0,Degree,No,No,13.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+MERN Stack,BCE21,3 Nets.inc,Front End Developer,21.0,Degree,Yes,No,10.0,No,4.0,Manjeri Malappuram ,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+MERN Stack,BCE20,Applaunch,Node JS Developer,22.0,No Degree,Yes,No,8.0,Yes,2.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.4
+Mobile Development Using Flutter,BCE17,Octavision ,Associate Software Developer,22.0,Degree,Yes,No,8.0,No,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+MERN Stack,BCE17,Foonza Media Pvt Ltd,Full Stack Developer,22.0,No Degree,No,No,12.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Machine Learning,BCE17,Net Sentries,Back End Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+Mobile Development Using Flutter,BCE20,Acabes International Pvt Ltd,Technology Associate,22.0,No Degree,No,No,10.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.7
+Web Development Using Python Django,BCE20,Acabes International Pvt Ltd,Technology Associate,25.0,Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.7
+MERN Stack,BCE18,Load Runnr ,MERN Stack Developer,23.0,No Degree,Yes,No,9.0,No,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+Machine Learning,BCE17,Carbon Bae,Django Developer ,22.0,Degree,Yes,No,9.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE18,Bluestream Software Solutions (OPC) PVT LTD,Full Stack Developer,21.0,No Degree,Yes,No,10.0,No,7.0,On site,"Html, Css, Javascript, Node.Js,Mongo db, Redux, React. Js, React Neative",Yes,4.5
+MERN Stack,BCE20,HNR Tech,Node js Developer,21.0,Degree,Yes,No,9.0,No,4.0,Chennai,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,5.0
+Mobile Development Using Flutter,BCE20,Surya Software Systems,Software Development Engineer I,22.0,No Degree,No,No,11.0,No,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.0
+MERN Stack,BCE17,CES IT,Associate Software Engineer,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.5
+MERN Stack,BCE18,CES IT,Associate Software Technologist,22.0,Degree,Yes,No,9.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,6.5
+MERN Stack,BCE18,Neutrinos,Associate Product Engineer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,6.5
+Mobile Development Using Flutter,BCE20,Load Runnr ,Flutter Developer Intern,22.0,No Degree,No,No,13.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCE18,Key value Systems,Software Developer Trainee,24.0,No Degree,No,No,11.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,7.5
+MERN Stack,BCE18,Load Runnr ,Mern developer,23.0,No Degree,Yes,No,9.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE17,Octavision ,Associate Software Developer,21.0,Degree,Yes,No,10.0,No,4.0,On site,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,5.5
+MERN Stack,BCE18,Neutrinos,Associate Software Engineer,21.0,Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.5
+MERN Stack,BCK19,Fingent Global Solutions Pvt. Ltd.,Junior Front End Developer,21.0,Degree,Yes,No,10.0,No,4.0,Calicut ,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,4.8
+MERN Stack,BCE18,Desk Day,Node Js Developer,21.0,Degree,Yes,No,10.0,No,4.0,Chennai,"React, Node, Html, CSS, Mongodb",Yes,6.0
+MERN Stack,BCK19,Elixia Tech,Software Developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"React,node js , nest js , express js , jest,go etc",Yes,6.5
+MERN Stack,BCK19,Elixia Tech,Software Developer,22.0,No Degree,Yes,No,7.0,Yes,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,8.0
+MERN Stack,BCE20,Freston Analytics,React Developer,21.0,Degree,Yes,No,10.0,No,4.0,Chennai,"React js ,React query",Yes,4.8
+MERN Stack,BCE21,Pocketlite,Full Stack Developer,22.0,Degree,No,No,12.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Web Development Using Python Django + React,BCE18,Vitright Technologies,Software Engineer,23.0,No Degree,Yes,No,10.0,Yes,4.0,Manjeri Malappuram ,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,5.5
+MERN Stack,BCE18,CES IT,Associate Software Technologist,21.0,Degree,Yes,No,9.0,No,7.0,On site,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,6.5
+MERN Stack,BCE22,Krishworks,System Software Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,8.12
+Web Development Using Python Django,BCE18,East Vantage,Python developer,23.0,Degree,Yes,No,10.0,No,2.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,10.0
+Mobile Development Using Flutter,BCE21,Zero Pay,Software Developer Intern,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,7.0
+Mobile Development Using Flutter,BCE17,Flotila Technologies,Software Developer,21.0,No Degree,No,No,10.0,No,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+Mobile Development Using Flutter,BCK19,Hypebrands,Flutter Deevloper,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE18,Upstyle Buisness,Full Stack Developer,22.0,No Degree,Yes,No,10.0,Yes,5.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.4
+Mobile Development Using Flutter,BCK19,Baliza,Software Engineer,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+Web Development Using Python Django,BCE18,PeerXP,Python Django Developer,22.0,Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Mobile Development Using Android Kotlin,BCE18,Genxlead Retail Pvt Ltd,Android Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,8.6
+Mobile Development Using Android Kotlin,BCE18,Matajar E Commerce LLP,Android Officer,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,10.0
+Mobile Development Using Flutter,BCE20,Cloud IQ,Software Design Engiineer,22.0,No Degree,Yes,No,7.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+Mobile Development Using Flutter,BCE18,Metric Tree Labs,Software Engineer,22.0,No Degree,No,No,11.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Mobile Development Using Flutter,BCE20,Conzura Soft Solutions,Mobile Application Developer,23.0,No Degree,No,No,13.0,Yes,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Frontend Development Using React,BCE22,Softlet Pvt Ltd,React Js Developer,22.0,No Degree,No,No,12.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Python Django,BCK15,Ecesis Care Pvt Ltd,Junior Software Developer,19.0,No Degree,No,No,16.0,Yes,7.0,Calicut ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.2
+MERN Stack,BCE17,Zuper Soft Solutions,Software Engineer,21.0,Degree,Yes,No,10.0,No,4.0,Nagercoil ,"React js ,React query",Yes,5.4
+MERN Stack,BCE17,Fingent Global Solutions Pvt. Ltd.,Junior Software Engineer,21.0,Degree,Yes,No,9.0,Yes,4.0,Hyderabad,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.8
+MERN Stack,BCE20,Embifi Global Solutions,Full Stack Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,8.5
+Mobile Development Using Flutter,BCE21,Axolon,Flutter Developer,22.0,Degree,No,No,9.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,7.8
+Mobile Development Using Flutter,BCE20,Hypebrands,Flutter Developer,21.0,No Degree,Yes,No,8.0,Yes,4.0,Manjeri Malappuram ,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,4.5
+Cybersecurity,BCE21,Tata Elxsi,Engineer,22.0,Degree,No,No,10.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.5
+Mobile Development Using Flutter,BCE18,Nectar IT,Software Engineer,22.0,No Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+Web Development Using Python Django,BCE20,Bima Mandi,Python Developer,22.0,No Degree,Yes,No,11.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Cybersecurity,BCE22,Secure Traces,Soc Analyst,22.0,Degree,Yes,No,12.0,Yes,2.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.5
+Mobile Development Using Flutter,BCE22,Alternativ Tech Lab Private Limited,Flutter Developer,23.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,6.0
+MERN Stack,BCE20,Indiacashback ,Full Stack Developer,22.0,No Degree,No,No,11.0,No,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+MERN Stack,BCE20,Spericorn Technology Pvt. Ltd.,Software Developer,22.0,Degree,Yes,No,9.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCE22,Vorps Technology ,Backend Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Mobile Development Using Android Kotlin,BCE23,Creace Technologies,Junior Software Engineer (Android),22.0,No Degree,No,No,14.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+Mobile Development Using Flutter,BCE21,Maison D' Auraine,Flutter Developer,22.0,Degree,Yes,No,7.0,No,7.0,Manjeri Malappuram ,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+MERN Stack,BCE20,Edvak Pvt Ltd.,Trainee Software Engineer,22.0,Degree,No,No,10.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.2
+MERN Stack,BCE20,Edvak Pvt Ltd.,Trainee Software Engineer,23.0,No Degree,Yes,No,7.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.2
+MERN Stack,BCE20,Octavision ,Full Stack Developer ,23.0,Degree,Yes,No,9.0,No,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE23,FlexM Pvt. Ltd.,Full Stack Developer,22.0,Degree,Yes,No,12.0,Yes,2.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Web Development Using Python Django + React,BCE20,Bask Creative,Full Stack Developer,22.0,Degree,Yes,No,12.0,Yes,1.0,Manjeri,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,5.5
+MERN Stack,BCE22,BeneathATree,Full Stack Developer,23.0,Degree,Yes,No,9.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Mobile Development Using Flutter,BCE22,BOSC Tech Labs,Software Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"Dart,Api integration,",Yes,6.0
+Web Development Using Python Django,BCK19,AdroitMinds Software Labs,Trainee Software Engineer,22.0,No Degree,No,No,10.0,Yes,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCE23,Bytestrone ,Junior Software Developer,23.0,No Degree,No,No,12.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.5
+Mobile Development Using Flutter,BCE21,Real-time Innovations ,Software Developer,22.0,No Degree,Yes,No,7.0,Yes,5.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+Mobile Development Using Flutter,BCE23,BOSC Tech Labs,Software Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"Dart,Api integration,",Yes,6.0
+MERN Stack,BCE22,Alignminds Technology,Trainee Software Engineer,24.0,No Degree,No,Yes [ Non IT industry ],13.0,Yes,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Mobile Development Using Flutter,BCE21,Unvired INC,Software Developer,22.0,Degree,No,No,12.0,Yes,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.3
+Web Development Using Python Django,BCE21,Website Dokan,Full Stack Developer,23.0,Degree,Yes,No,10.0,Yes,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+Mobile Development Using Flutter,BCE22,Website Dokan,Junior Developer,23.0,No Degree,No,No,15.0,Yes,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.0
+Mobile Development Using Flutter,BCE22,NowApp Tech Pvt Ltd,Flutter Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,5.5
+MERN Stack,BCE25,Staxlabs Inc Pvt Ltd,Full Stack Developer,22.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+Mobile Development Using Flutter,BCE23,White Rabbit Labs,Trainee Software Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Dart,Api integration,",Yes,5.5
+MERN Stack,BCE23,Tapclone,Full Stack Developer,22.0,No Degree,No,No,15.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+Mobile Development Using Flutter,BCE22,White Rabbit Labs,Trainee Software Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Dart,Api integration,",Yes,5.5
+Web Development Using Python Django,BCE20,YouGotaGift Pvt. Ltd.,Web developer ,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.12
+MERN Stack,BCE22,Weblight solutions ,Full Stack developer,22.0,No Degree,Yes,No,13.0,Yes,7.0,Manjeri Malappuram ,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,4.0
+MERN Stack,BCE23,Kodsmith pvt ltd,Full Stack developer,21.0,Degree,No,No,10.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Web Development Using Python Django,BCE20,CloudVice,Full Stack developer,23.0,No Degree,No,No,9.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.8
+Mobile Development Using Flutter,BCE22,SciWiz Innovations Pvt. Ltd.,Flutter Developer,22.0,Degree,No,No,10.0,No,1.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+MERN Stack,BCE20,Markspot,Jr. Software Engineer,22.0,No Degree,No,No,10.0,No,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+Mobile Development Using Flutter,BCE23,A S Designs,Junior Flutter Developer,22.0,Degree,No,No,12.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,2.76
+MERN Stack,BCE23,Armia Systems Pvt Ltd,Jr. Software Engineer,22.0,Degree,Yes,No,13.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.5
+MERN Stack,BCE23,Armia Systems Pvt Ltd,Jr. Software Engineer,22.0,Degree,No,No,9.0,Yes,4.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.5
+MERN Stack,BCE23,Armia Systems Pvt Ltd,Jr. Software Engineer,22.0,No Degree,No,No,10.0,No,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+Mobile Development Using Flutter,BCE22,ProPlus Logics Solution Pvt Ltd,Full Stack developer,22.0,No Degree,Yes,No,7.0,Yes,4.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Mobile Development Using Flutter,BCE25,Chalo Exam,Frontend Developer,22.0,No Degree,No,No,7.0,Yes,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCE18,Techlego,Junior Developer,22.0,Degree,Yes,No,12.0,Yes,4.0,Ernakulam,"React,Python,SQL,Django,Html,Css",Yes,4.0
+Web Development Using Python Django + React,BCE21,Algo IT Solutions,Full-stack developer,23.0,No Degree,No,No,10.0,Yes,4.0,Manjeri Malappuram ,"React, Node, Html, CSS, Mongodb",Yes,2.4
+Web Development Using Python Django,BCE20,Eduport Academic Research Center Pvt Ltd,Full-stack developer,22.0,Degree,No,No,11.0,Yes,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Game development using Unity,BCK26,Hopscotch Games,Unity 3D Developer,26.0,Degree,No,No,12.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.2
+Mobile Development Using Flutter,BCE23,Bitroot,Flutter Developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+MEAN Stack,BCE25,Aequalis Software Solutions Pvt Ltd,Angular Developer,23.0,No Degree,No,No,12.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Mobile Development Using Flutter,BCE21,Dotstaxi,Flutter Developer ,23.0,No Degree,No,No,12.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Flutter,BCE25,Aslan & Simba Technologies Pvt Ltd (Orazo),Mobile Application Developer Flutter,21.0,Degree,Yes,No,10.0,No,1.0,Nagercoil ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.11
+Mobile Development Using Flutter,BCE23,Bitroot,Flutter Engineer,23.0,Degree,Yes,No,10.0,Yes,3.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE23,Duple IT Solutions Pvt. Ltd.,Software Development Engineer-1,22.0,No Degree,Yes,No,10.0,No,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE22,Duple IT Solutions Pvt. Ltd.,Software Development Engineer-1,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+Web Development Using Python Django + React,BCE23,Archingen India Private Ltd,Software Developer,24.0,No Degree,No,No,13.0,Yes,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE28,Bitroot,Fullstack Engineer,23.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCE22,Arvension Technologies LLP,Junior Full Stack Developer,22.0,No Degree,Yes,No,9.0,No,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCE22,Arvension Technologies LLP,Junior Full Stack Developer,22.0,No Degree,Yes,No,7.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+MERN Stack,BCE23,Rough Bit LLP (FinalApps),Junior Developer,19.0,No Degree,No,No,9.0,No,7.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,2.4
+Mobile Development Using Flutter,BCE23,India Health Link,Mobile App Developer ,21.0,No Degree,Yes,No,9.0,Yes,4.0,Manjeri Malappuram ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.8
+MERN Stack,BCE20,Digital Brain Media,MERN Stack Developer,22.0,No Degree,Yes,No,10.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+Web Development Using Python Django + React,BCE20,Acabes International Pvt Ltd,Technology Associate ,23.0,No Degree,No,No,14.0,Yes,0.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,4.7
+MERN Stack,BCE23,BOSC Tech Labs,Software Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,6.0
+MERN Stack,BCE20,Edumetrix Learning Solutions Pvt Ltd. ,Full Stack Engineer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+Mobile Development Using Flutter,BCE20,Bask Creative,Application Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+Web Development Using Python Django + React,BCE20,Syoft,Junior Software Developer,24.0,No Degree,No,No,12.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Web Development Using Python Django + React,BCE25,Conscio Tech,Software Development Engineer,23.0,No Degree,No,No,10.0,Yes,7.0,Manjeri Malappuram ,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,4.8
+Game development using Unity,BCK26,ConvAI Innovations Pvt. Ltd.,Senior Game Developer,31.0,Degree,No,No,9.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+Mobile Development Using Flutter,BCK24,Zaigo Infotech, Junior Software Engineer,23.0,No Degree,No,No,13.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+Mobile Development Using Flutter,BCE23,ComboNation,Jr Flutter Developer,21.0,Degree,Yes,No,9.0,No,4.0,Calicut ,"Dart,Api integration,",Yes,5.0
+Mobile Development Using Flutter,BCE20,Cynbus,Mobile Developer,22.0,Degree,No,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCE25,Ziance Technologies,MERN Stack Developer,22.0,Degree,Yes,No,10.0,No,2.0,WFH,"React js ,React query",Yes,5.67
+MERN Stack,BCK24,Klinik Everywhere Technologies Pvt. Ltd.,Software Engineer,24.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Machine Learning,BCE21,Brototype,Junior Software Engineer ,22.0,Degree,No,No,13.0,Yes,0.0,WFH,"Flutter, firbase, API",Yes,3.6
+Mobile Development Using Flutter,BCK24,Klinik Everywhere Technologies Pvt. Ltd.,Software Engineer,22.0,Degree,Yes,No,10.0,Yes,5.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE30,IQVIA,Clinical Data Programming Associate,21.0,No Degree,Yes,No,7.0,No,7.0,On site,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCE25,Script Lanes,Backend Developer ,22.0,Degree,Yes,No,12.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.5
+MERN Stack,BCE22,Ethnic Infotech,MERN Stack Developer,22.0,No Degree,No,No,10.0,No,7.0,Hyderabad,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Mobile Development Using Flutter,BCK24,Marlo Technologies,Associate Flutter Developer,22.0,No Degree,Yes,No,10.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Mobile Development Using Flutter,BCK24,Detect Technologies Pvt Ltd.,Junior Software Engineer(SE 1),22.0,No Degree,Yes,No,10.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Golang,BCE22,Wednesday Solutions,Software Engineer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+Web Development Using Python Django,BCE22,Zartek Technologies,Python Developer ,23.0,Degree,Yes,No,12.0,Yes,2.0,WFH,"React, Node, Html, CSS, Mongodb",Yes,3.0
+Mobile Development Using Flutter,BCE23,Promena LLP,Junior Android Developer,23.0,No Degree,No,No,12.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCK24,Aifer Education Pvt. Ltd.,Full Stack Developer,23.0,No Degree,No,No,13.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE25,Riafy Technologies Pvt Ltd ,Full Stack Developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+MERN Stack,BCE20,Bluestream Software Solutions (OPC) PVT LTD,Full Stack Developer,22.0,Degree,No,No,12.0,Yes,3.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Python Django,BCK26,Chisquare Labs Pvt Ltd,Data Engineer Intern,25.0,Degree,No,No,8.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",No,2.4
+Mobile Development Using Flutter,BCE25,TerraEagle Technologies,Flutter Developer ,22.0,Degree,No,No,14.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Mobile Development Using Flutter,BCE23,MSA Software ,Android Developer ,22.0,No Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+MERN Stack,BCE23,BOSC Tech Labs,Software Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+Web Development Using Python Django,BCK24,CloudEQ,Junior Software Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, Html, CSS, Mongodb",Yes,6.0
+MERN Stack,BCE28,TBT Enterprise Mobile Solutions Private Limited,Full Stack Developer,23.0,No Degree,No,No,16.0,Yes,4.0,Bangalore,"React, Node, Html, CSS, SCSS, Next",Yes,3.6
+Web Development Using Python Django,BCE25,Konsultera Solutions Private Limited,Software Engineer,21.0,Degree,Yes,No,12.0,No,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+MERN Stack,BCK26,Neutrinos,Associate Software Engineer,23.0,Degree,Yes,No,10.0,No,1.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.5
+MERN Stack,BCE28,Reon Technologies Pvt. Ltd.,Full Stack Developer ,22.0,Degree,Yes,No,12.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCK26,Sensesemi Technologies Pvt. Ltd.,Software Engineer ,23.0,No Degree,No,No,9.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCK26,Shazab Futuretech Solutions Pvt. Ltd.,Node js Engineer,23.0,Degree,No,No,7.0,Yes,0.0,Pune,"Go, SQL, HTML, CSS",Yes,4.2
+Golang,BCE25,Coriolis Technologies Pvt. Ltd.,"Golang Developer(Member, Technical Staff) ",22.0,No Degree,Yes,No,13.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCK24,Inunity LLP,Full Stack Developer,21.0,Degree,Yes,No,12.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Mobile Development Using Flutter,BCK26, SciWiz Innovations Pvt. Ltd.,Flutter Trainer,26.0,Degree,No,No,10.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+MERN Stack,BCE25,Zartek Technologies,Jr. React JS Developer ,22.0,Degree,Yes,No,7.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCK26,Arokee Online Solutions Pvt. ltd. ,Associate Software Engineer ,22.0,Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Web Development Using Python Django,BCK26,Brillersys,Python Developer,22.0,No Degree,No,No,7.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCE25,Bipolar Factory,Junior Full-Stack Developer ,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCK24,MedLink Jobs,Software Engineer,22.0,Degree,Yes,No,10.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+Mobile Development Using Flutter,BCK26,Feblead Developers Technolab,Mobile App Developer ,23.0,No Degree,Yes,No,9.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+MERN Stack,BCK24,MedLink Jobs,Software Engineer ,22.0,No Degree,No,No,10.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.5
+MERN Stack,BCE28,ISPG technologies India Pvt. Ltd.,Junior Software Engineer ,23.0,Degree,Yes,No,10.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK26,Riota Private Limited,Junior Full Stack Developer,23.0,No Degree,No,No,9.0,No,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.8
+MERN Stack,BCK24,VMax Wellness,Junior Software Engineer ,22.0,Degree,Yes,No,7.0,Yes,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+Web Development Using Python Django,BCK26,Bottom Funnel Technology Pvt Ltd,Python Full Stack Developer Intern,24.0,Degree,No,No,10.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+MERN Stack,BCK26,Mere Mentor ,Full Stack Developer ,23.0,Degree,Yes,No,9.0,Yes,2.0,Bangalore,"Go, SQL, HTML, CSS",Yes,4.8
+MERN Stack,BCK26,Spericorn Technology Pvt. Ltd.,NodeJS Developer ,22.0,Degree,Yes,No,8.0,Yes,4.0,Chennai,"React,Python,SQL,Django,Html,Css",Yes,4.5
+Golang,BCK26,Eka Care(Orbi Health Pvt. Ltd.),Associate Software Engineer ,25.0,Degree,No,No,7.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.1
+Data Science,BCE22,Mapout Pvt. Ltd.,Data Scientist ,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Dart,Api integration,",Yes,6.0
+Mobile Development Using Flutter,BCE23,Real 11 Fantasy Sports LLP,Flutter Developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+Mobile Development Using Flutter,BCE23,Sowedane Technologies,Flutter Developer,23.0,No Degree,No,No,12.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+Golang,BCE25,Arvension Technologies LLP,Project Architect,22.0,Degree,No,No,12.0,No,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+MERN Stack,BCK24,Duple IT Solutions Pvt. Ltd.,Software Development Engineer I,21.0,Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Mobile Development Using Flutter,BCK26,XTG Technologies,Associate Software Engineer,25.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Flutter,BCK24,DataSpot Technologies,Junior Flutter Developer ,22.0,Degree,Yes,No,10.0,Yes,5.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,2.4
+Mobile Development Using Flutter,BCK26,TruEquations Private Limited,Software Engineer ,23.0,No Degree,No,No,9.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+Mobile Development Using Flutter,BCE28,DCKAP Technologies,Software Developer,23.0,No Degree,No,No,12.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCK26,Mapout Pvt. Ltd.,Full Stack Developer,24.0,No Degree,Yes,No,10.0,Yes,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+Web Development Using Python Django + Angular,BCE28,CSC-Ag Merchants Private Limited,Full-Stack Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+MEAN Stack,BCK27,Knorr-Bremse Technology Center India Pvt,Trainee Engineer,22.0,Degree,Yes,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Mobile Development Using Flutter,BCK24,Plateron Pvt. Ltd.,Software Engineer,23.0,No Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Mobile Development Using Flutter,BCK24,iKure Techsoft Pvt Ltd,Senior Flutter Developer,22.0,No Degree,Yes,No,10.0,No,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.4
+Mobile Development Using Flutter,BCK26,TruEquations Private Limited,Software Engineer ,22.0,No Degree,Yes,No,8.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+MERN Stack,BCK26,Megamind Studios LLP,Full Stack Developer,23.0,Degree,No,No,10.0,Yes,2.0,Bangalore,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,4.5
+Mobile Development Using Flutter,BCK26,Node Technologies India Pvt. Ltd. ,Junior Flutter Developer ,23.0,Degree,Yes,No,7.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+MERN Stack,BCK26,Duple IT Solutions Pvt. Ltd.,Software Development Engineer,23.0,Degree,No,No,9.0,Yes,2.0,Bangalore,"Dart,Api integration,",Yes,5.0
+Mobile Development Using Android Kotlin,BCK24,FlytBase Labs Private Limited,Android Developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,Bangalore,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,7.0
+MERN Stack,BCE25,Reon Technologies Pvt. Ltd.,MERN Stack Developer,22.0,No Degree,Yes,No,7.0,Yes,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+MERN Stack,BCE25,Weboffice Infotech India Pvt. Ltd. ,Software Engineer ,21.0,No Degree,Yes,No,9.0,Yes,5.0,On site,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.8
+Web Development Using Python Django,BCK26,ATMS Tech Solutions Pvt Ltd,Software Development Engineer ,27.0,Degree,Yes,No,7.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+MERN Stack,BCK26,Ti Steps,Junior - Full - Stack Developer,25.0,No Degree,Yes,No,9.0,No,7.0,Bangalore,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,6.0
+Web Development Using Python Django + React,BCK26,Fitmat Smart Solutions Pvt Ltd ,Jr. Full Stack Developer,31.0,Degree,No,No,8.0,No,0.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",No,2.4
+Machine Learning,BCK31,Vidgyor Media Technologies Private Limited,Machine Learning Engineer,23.0,No Degree,Yes,No,9.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Mobile Development Using Flutter,BCK27,CredR,Fluttter Developer,22.0,No Degree,Yes,No,9.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.2
+MERN Stack,BCK26,Duple IT Solutions Pvt. Ltd.,Software Development Engineer,24.0,Degree,No,No,10.0,No,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.96
+MERN Stack,BCK24,Steinbeis India,Software Developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+MERN Stack,BCK26,DWORD Core Private Limited.,MERN Stack Developer,23.0,Degree,No,No,7.0,Yes,2.0,Manjeri Malappuram ,"Dart,Api integration,",Yes,3.6
+Mobile Development Using Flutter,BCE25,Entro Labs IT Solutions ,Junior Software Developer ,22.0,Degree,No,No,10.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+Mobile Development Using Flutter,BCK24,AI hawks Software Solutions Pvt. Ltd.,Flutter Developer,23.0,No Degree,No,No,9.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+MERN Stack,BCE23,Edurupt Technologies Pvt Ltd,Junior Full Stack Developer ,22.0,No Degree,No,No,10.0,No,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+MERN Stack,BCK24,QBLOCKS Technologies Pvt. Ltd.,Software Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+MERN Stack,BCK27,Duple IT Solutions Pvt. Ltd.,Software Development Engineer,22.0,No Degree,No,No,10.0,No,5.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.2
+Web Development Using Python Django + React,BCK27,Genpro Research pvt ltd,Software Engineer ,22.0,Degree,No,No,11.0,Yes,1.0,Chennai works from office ,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+MERN Stack,BCK26,Primatesdev technology ,Full Stack Developer,23.0,No Degree,No,No,10.0,No,1.0,Bangalore,"Go, SQL, HTML, CSS",Yes,4.2
+MEAN Stack,BCE28,Cordova Educational Solutions,Mean Stack Developer ,22.0,No Degree,Yes,No,12.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+MERN Stack,BCK26,E Slams,Associate software Engineer ,24.0,Degree,No,No,10.0,No,0.0,Pune,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,4.6
+Web Development Using Python Django,BCE28,Poisecode,Backend developer (Django),22.0,No Degree,Yes,No,7.0,Yes,4.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+Web Development Using Python Django,BCE30,YouGotaGift Pvt. Ltd.,Django developer ,22.0,Degree,Yes,No,9.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.9
+MERN Stack,BCK24,Eslams ,Associate software Engineer ,21.0,No Degree,Yes,No,7.0,Yes,4.0,Manjeri Malappuram ,"React js ,React query",Yes,4.5
+MEAN Stack,BCE28,CharpstAR,Junior Full Stack Developer ,22.0,No Degree,Yes,No,9.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.04
+MERN Stack,BCE30,Arvension Technologies LLP,Full Stack Developer,24.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,Bangalore,"Dart,Api integration,",Yes,4.0
+MERN Stack,BCE28,Arvension Technologies LLP,MERN Stack Developer,22.0,Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+MERN Stack,BCK32,Enfin Technologies,Jr. Software Engineer,23.0,Degree,Yes,No,9.0,Yes,5.0,WFH,"React,Python,SQL,Django,Html,Css",Yes,2.5
+Web Development Using Python Django,BCK27,Zelthy,Jr. Software Developer,24.0,Degree,No,No,12.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.5
+Mobile Development Using Flutter,BCK27,Zooper Technologies Pvt Ltd,Associate Software ,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+Mobile Development Using Flutter,BCE25,Reon Technologies Pvt. Ltd.,Flutter Developer ,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Flutter,BCK29,Xcitech Technologies,Software Engineer,22.0,No Degree,Yes,No,10.0,No,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",No,5.0
+Web Development Using Python Django,BCK26,Triveous,Software Engineer ,22.0,No Degree,Yes,No,7.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.3
+Mobile Development Using Flutter,BCK26,TL Technologies pvt.ltd,Flutter Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+Golang,BCE25,NST Cyber,Associate Product Engineer ,23.0,No Degree,Yes,No,10.0,No,0.0,WFH,"React, Node, Html, CSS, Mongodb",Yes,6.0
+Web Development Using Python Django,BCK24,NST Cyber,Associate Product Engineer ,22.0,No Degree,Yes,No,7.0,No,4.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+MERN Stack,BCE28,Arvension Technologies LLP,MERN Stack Developer,25.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MEAN Stack,BCE28,FlexM Pvt. Ltd.,Full Stack Developer,23.0,No Degree,No,No,14.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE25,Arvension Technologies LLP,Full Stack Developer,24.0,No Degree,No,No,16.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE25,ILapz Technologies,Full Stack Developer,22.0,Degree,No,No,12.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCK31,Bitroot,Full Stack Developer,23.0,Degree,No,No,14.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+Mobile Development Using Flutter,BCK27,Dword Core PVT LTD.,Flutter Developer,22.0,No Degree,No,No,12.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.4
+MERN Stack,BCK26,Dword Core PVT LTD.,MERN Stack Developer,26.0,Degree,No,No,7.0,No,0.0,Calicut ,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,3.6
+Web Development Using Python Django,BCK26,Glitchh,Back-end Developer,24.0,No Degree,No,No,9.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+Mobile Development Using Flutter,BCE30,Lepton Plus Communications,Junior Developer,21.0,No Degree,No,No,9.0,Yes,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+Mobile Development Using Flutter,BCK27,Dword Core PVT LTD.,Flutter NodeJS Developer ,22.0,No Degree,Yes,No,10.0,Yes,7.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.4
+MERN Stack,BCE28,TCP INTERNATIONAL Inc,Node.Js Developer,24.0,No Degree,No,No,12.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Python Django,BCE28,Arvension Technologies LLP,Python Developer,22.0,No Degree,No,No,13.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+Web Development Using Python Django,BCK27,NST Cyber,Associate Product Engineer ,22.0,No Degree,Yes,No,8.0,Yes,5.0,Bangalore,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+MEAN Stack,BCE28,FlexM Pvt. Ltd.,Full Stack Developer,23.0,No Degree,No,No,11.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCK29,BOSC Tech Labs,Software Developer,23.0,No Degree,Yes,No,11.0,Yes,5.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCK27,Go Swift,MERN Stack Developer,21.0,No Degree,No,No,10.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+Mobile Development Using Flutter,BCK29,Mobikasa Pvt Ltd,Flutter Developer ,22.0,Degree,No,No,10.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK29,Dword Core PVT LTD.,Full Stack Developer,22.0,No Degree,No,No,13.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCK32,Kompalli Data Solutions Pvt Ltd,Backend Developer ,22.0,Degree,Yes,No,9.0,Yes,7.0,Ernakulam,"React,node js , nest js , express js , jest,go etc",Yes,4.0
+MERN Stack,BCK27,Secure Info Pvt. Ltd,Software Programmer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+MERN Stack,BCK27,QuoDroid Software Development Pvt. Ltd,Web Developer ,22.0,No Degree,Yes,No,10.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+MERN Stack,BCK31,Applore,MERN Stack Developer,22.0,No Degree,Yes,No,8.0,Yes,4.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCK31,BOSC Tech Labs,Software Developer,22.0,No Degree,Yes,No,9.0,No,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+Mobile Development Using Flutter,BCK29,Infonium Technologies,Software Developer,22.0,No Degree,No,No,12.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Golang,BCK26,Lotus Wireless Technologies India Pvt Ltd,Junior Developer ,25.0,No Degree,No,Yes [ Non IT industry ],12.0,No,0.0,Calicut ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.7
+Web Development Using Python Django,BCK29,Moneyclub Technologies  Pvt Ltd,Software Developer,23.0,Degree,Yes,No,10.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+MERN Stack,BCK31,Karle Infra Pvt Ltd,Software Developer,21.0,No Degree,Yes,No,9.0,No,5.0,Hyderabad,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.75
+Mobile Development Using Flutter,BCK29,Letmegrab,Junior Developer ,22.0,No Degree,Yes,No,10.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.4
+MERN Stack,BCK24,Neutrinos, Associate Product Engineer,23.0,No Degree,Yes,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Web Development Using Python Django,BCK29,iDream Education,Flutter developer,21.0,Degree,Yes,No,9.0,Yes,4.0,Calicut ,"Dart,Api integration,",Yes,4.6
+MERN Stack,BCE34,Brototype,Executive Placement Officer,22.0,Degree,Yes,No,10.0,No,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+Mobile Development Using Flutter,BCK29,Theecode,Software Engineer,22.0,No Degree,Yes,No,10.0,Yes,5.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Golang,BCE30,CWD Limited,Golang Developer,22.0,Degree,Yes,No,9.0,No,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+Mobile Development Using Flutter,BCK27,Marlo Technologies,Junior flutter developer ,22.0,No Degree,No,No,14.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.25
+Mobile Development Using Flutter,BCE30,IQ General Pvt. Ltd.,Software developer,22.0,No Degree,Yes,No,9.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Mobile Development Using Flutter,BCK27,Codecraft technologies pvt,Flutter developer trainee ,22.0,No Degree,No,No,11.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.3
+MERN Stack,BCK26,Maison D' Auraine,Full stack developer,24.0,No Degree,No,No,9.0,No,4.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCK29,MedleyMed,Trainee - Software Engineer,22.0,Degree,Yes,No,10.0,Yes,2.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.5
+Mobile Development Using Flutter,BCK32,GeekSynergy Technologies Pvt. Ltd,Flutter Developer,23.0,Degree,Yes,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+MERN Stack,BCK29,Isport technologies,ReactJS Developer,22.0,Degree,Yes,No,10.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK26,Bipolar Factory,Full stack developer,24.0,Degree,No,No,7.0,No,0.0,Manjeri Malappuram ,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,4.0
+MERN Stack,BCE28,Artifitia Solutions ,Junior Web Developer,22.0,No Degree,No,No,9.0,No,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCE43,IQ General Pvt. Ltd.,Software Developer,21.0,Degree,Yes,No,10.0,No,4.0,Nagercoil ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.5
+MERN Stack,BCK29,Neutrinos,Associate product engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,6.0
+MERN Stack,BCK31,Codebucket solution,Associate Developer,21.0,No Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCK29,Artifitia Solutions ,MERN stack developer,22.0,Degree,No,No,10.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Mobile Development Using Flutter,BCK29,Flyweis Technology,Flutter developer,23.0,Degree,Yes,No,10.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCE39,Recotap,Software Engineer,22.0,Degree,No,No,10.0,Yes,5.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+DevOps,BCK27,Faclon Labs Mumbai,DevOps Trainee,21.0,Degree,No,No,10.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCK29,Vensure,Project Engineer Backend,21.0,Degree,No,No,9.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.3
+MERN Stack,BCK32,Creware Technology Pvt ltd,MERN stack developer,22.0,Degree,No,No,9.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+Cybersecurity,BCK24,"WeSecureApp, Tek Cube Pvt Ltd",Junior Security Analyst,23.0,No Degree,No,No,10.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,2.0
+MERN Stack,BCK31,Maison D' Auraine,Mern Stack Developer,22.0,Degree,No,No,9.0,Yes,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCE34,Rock IMS,Nodejs Developer,22.0,No Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.28
+MERN Stack,BCK32,SRV,React Developer,23.0,Degree,Yes,No,10.0,Yes,5.0,WFH,"React,Python,SQL,Django,Html,Css",Yes,3.0
+MERN Stack,BCE40,WEZBO,Junior Developer,22.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+Mobile Development Using Flutter,BCK32,BigWelt Infotech Pvt. Ltd,Flutter Developer,23.0,No Degree,No,No,10.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,1.8
+Mobile Development Using Flutter,BCE34,Infotura Technologies ,Flutter Developer ,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,5.5
+Mobile Development Using Flutter,BCK32,BigWelt Infotech Pvt. Ltd,Flutter developer,22.0,Degree,Yes,No,13.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,1.8
+MERN Stack,BCE34,Arab Industries,Junior MERN Stack Developer,22.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Web Development Using Python Django + React,BCK27,Codebeat,Data Analyst,24.0,No Degree,Yes,No,10.0,Yes,5.0,Manjeri,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,5.0
+Golang,BCE39A,Techno Softwares,Golang Developer,22.0,Degree,Yes,No,9.0,Yes,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,6.0
+Web Development Using Python Django,BCK31,CloudBerry360 Technologies Pvt Ltd,Associate Software Engineer,22.0,No Degree,Yes,No,9.0,Yes,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCK32,Eqaim Technology & Services,Full Stack Developer,24.0,Degree,No,No,16.0,Yes,1.0,WFH,"React, Node, Html, CSS, SCSS, Next",Yes,4.5
+MERN Stack,BCE33,Study Quotient pvt ltd ,Full Stack Developer,22.0,No Degree,No,No,12.0,No,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.8
+Mobile Development Using Flutter,BCE34,ThoughtBox,Mobile Application Developer Flutter,22.0,No Degree,Yes,No,7.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.28
+Mobile Development Using Flutter,BCK26,Infotura Technologies ,Flutter Developer ,23.0,Degree,No,No,10.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCE33,Paripoorna Software Solutions,Software Developer - trainee,22.0,No Degree,Yes,No,10.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Web Development Using Python Django + React,BCK27,Markytics Consulting Private Limited,Python developer,22.0,No Degree,No,No,13.0,Yes,5.0,Manjeri,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.4
+MERN Stack,BCE34,Thapovan Info Systems Inc,Junior Programmer Analyst ,23.0,Degree,No,No,10.0,No,2.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+MERN Stack,BCK32,Artifitia Solutions ,Mern Stack Developer,22.0,Degree,No,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Web Development Using Python Django,BCK29,STGI Technologies Consulting Pvt. Ltd,Software Engineer(Backend),23.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+Web Development Using Python Django + React,BCK31,Vibencode Private Limited,Backend Developer ,25.0,No Degree,No,No,11.0,No,0.0,WFH,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,3.6
+MERN Stack,BCK32,Paripoorna Software Solutions,Trainee-Software Developer ,22.0,No Degree,No,No,10.0,No,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.7
+Mobile Development Using Flutter,BCE30,Oonzoo ,Flutter Developer ,22.0,Degree,No,No,10.0,Yes,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE33,Dotworld ,Associate Software Engineer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,Bangalore,"React, Node, Nest, Next, HTML, CSS, MUI, Socket.io, MongoDB, Javascript, Bootstrap, Tailwind CSS, jQuery, Redux, Express JS, Mongoose, JWT, Git, Postman, Firebase, Vercel, Nginx",Yes,3.38
+MERN Stack,BCK29,Theecode,Software Engineer ,22.0,No Degree,Yes,No,7.0,Yes,2.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.0
+MERN Stack,BCE30,Paripoorna Software Solutions,Trainee - Software Developer,22.0,No Degree,Yes,No,12.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+MERN Stack,BCK29,Miztech AI Minds Pvt. Ltd.,Product Engineer Associate,22.0,Degree,Yes,No,10.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,2.16
+Web Development Using Python Django + React,BCK35,Skoot Hat,Software Developer Engineer,31.0,Diploma,No,Yes [ Non IT industry ],12.0,Yes,2.0,Chennai works from office ,"Html,CSS",Yes,6.0
+Cybersecurity,BCK29,CodeGreen,SOC Engineer,22.0,No Degree,Yes,No,9.0,No,7.0,Bangalore,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,12.0
+Mobile Development Using Flutter,BCK29,Kerner Norland,Flutter Developer ,22.0,No Degree,Yes,No,7.0,Yes,5.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,8.7
+MERN Stack,BCE36,Qitaabe,Software Developer ,22.0,No Degree,Yes,No,9.0,No,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",No,4.8
+MERN Stack,BCE36,Best engineering aids and consultancies (BEACON) Private Limited,Full Stack Developer ,23.0,Degree,No,No,10.0,No,2.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,6.0
+Web Development Using Python Django + React,BCK31,Infotura Technologies ,Python Backend Developer,22.0,No Degree,No,No,9.0,Yes,7.0,Manjeri,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+MERN Stack,BCK29,Theecode,Software Engineer,22.0,No Degree,Yes,No,10.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCT37,Zvoid India Pvt Ltd,Full stack developer ,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.8
+Web Development Using Python Django,BCK29,Infotura Technologies ,Python Developer,25.0,Diploma,No,Yes [ Non IT industry ],13.0,Yes,2.0,Hyderabad ,"Html,CSS",Yes,4.2
+Mobile Development Using Flutter,BCK31,Beworld Web Services PVT LTD,Junior Flutter Developer ,22.0,No Degree,Yes,No,9.0,Yes,3.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCK31,Rock IMS,Node JS Developer ,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+Mobile Development Using Flutter,BCK29,Brilliant System Solutions ,Flutter Developer (android/ios),22.0,No Degree,Yes,No,9.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE34,Infotura Technologies ,Full stack developer ,22.0,No Degree,Yes,No,10.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.56
+MERN Stack,BCK29,Neutrinos,Associate product Engineer ,22.0,Degree,Yes,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCE30,Penieltech,Front-end developer,22.0,No Degree,No,No,10.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCK31,Better Brands & Practices India Communications pvt. ltd.,Full Stack Developer,31.0,Degree,No,Yes [ Non IT industry ],12.0,No,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+MERN Stack,BCE39,Craxinno Technologies Private Limited,Full Stack Developer,24.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,Bangalore,"Dart,Api integration,",Yes,3.6
+MERN Stack,BCK32,Neutrinos,Associate Product Engineer,21.0,Degree,Yes,No,10.0,No,4.0,Calicut ,"React js ,React query",Yes,5.0
+MERN Stack,BCK35,Juntrax,Software Engineer,24.0,Degree,No,No,10.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+MERN Stack,BCK27,Artifitia Solutions ,MERN - Stack Developer ,23.0,Degree,Yes,No,10.0,Yes,1.0,WFH,"React js ,React query",Yes,3.0
+MERN Stack,BCE34,Kurage,Full Stack Developer ,22.0,Degree,Yes,No,9.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCT37,Studium Tech Pvt Ltd,Junior Software Developer,21.0,Degree,No,No,10.0,No,3.0,Nagercoil ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+MERN Stack,BCK32,Akra Tech Pvt Ltd,Junior React developer,19.0,No Degree,No,No,10.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+MERN Stack,BCK32,Brototype,Business Development Executive (BDE),23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,Bangalore,"React, Node, Html, CSS, Mongodb",Yes,2.53
+Data Science,BCK32,Atlas Analytics,Software Development (Apprentice),22.0,No Degree,Yes,No,9.0,Yes,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.91
+Web Development Using Python Django + React,BCE30,Ideenkreise Tech Pvt Ltd.,Python developer ,24.0,No Degree,No,No,9.0,Yes,5.0,Manjeri Malappuram ,"React,node js , nest js , express js , jest,go etc",Yes,3.6
+MERN Stack,BCK32,Texol,Full stack developer ,19.0,No Degree,No,Bca dropout ,9.0,No,0.0,Nagercoil ,"Dart,Api integration,",Yes,2.4
+Mobile Development Using Flutter,BCE40,Tree Integrated Services,Flutter developer,24.0,Degree,No,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.8
+Web Development Using Python Django + React,BCE36,Accomptant Inc.,Python Developer,23.0,Degree,No,No,11.0,Yes,2.0,Manjeri Malappuram ,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,10.0
+MERN Stack,BCE34,Kurage,Full Stack Developer,25.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE34,Avalontribe Infotech,MERN Developer ,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+MERN Stack,BCE33,Candela learnings ,Web developer ,22.0,Degree,No,No,10.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.8
+Web Development Using Python Django + React,BCK41,Seventh Square Internet Private Limited ,Full stack developer,22.0,Degree,No,No,10.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.24
+MERN Stack,BCT37,Aceware Fintech Services Pvt. Ltd.,Software Developer,24.0,Degree,Yes,No,12.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Mobile Development Using Flutter,BCK31,Europe Study Centre Pvt Ltd (ESC),Flutter devoloper,22.0,Degree,No,No,12.0,Yes,0.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+Mobile Development Using Flutter,BCE39,Shoption Pvt Ltd,Flutter Developer ,22.0,Degree,No,No,10.0,No,3.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.8
+Machine Learning,BCK29,Deepatabc,Research Assistant (Machine Learning),22.0,No Degree,No,No,12.0,No,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCK35,Blocktrack,Full Stack Developer ,21.0,Degree,No,No,12.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.5
+MERN Stack,BCT37,aTeam Soft Solutions,Software Engineer,22.0,No Degree,No,No,12.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.8
+MERN Stack,BCK41,Hash IT Solution,Front End Developer,21.0,Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"Dart,Api integration,",Yes,3.0
+Mobile Development Using Flutter,BCE33,Algorithma Digitech Pvt Ltd,Flutter developer,22.0,Degree,No,No,10.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.44
+Golang,BCK27,BPS Pvt Ltd,Go Developer,22.0,No Degree,No,No,10.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.6
+Web Development Using Python Django + React,BCE30,PeerXP,Python Django Developer,22.0,No Degree,No,No,10.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCK27,Onstara Private Limited,Software Developer Trainee,23.0,Degree,Yes,No,10.0,No,0.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,2.82
+Web Development Using Python Django,BCE36,Infotura Technologies ,Python Developer,22.0,Degree,No,No,10.0,No,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.56
+MERN Stack,BCK35,Eqaim Technology & Services,Full Stack Developer,23.0,Degree,No,No,11.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCK29,Pardy Panda Studios Pvt. Ltd.,Web Developer ,22.0,Degree,Yes,No,10.0,Yes,5.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.56
+MERN Stack,BCK46,Pardy Panda Studios Pvt. Ltd.,Web Developer ,23.0,Degree,Yes,No,9.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.56
+MERN Stack,BCK38,Troposphere Solutions Pvt Ltd,Software Engineer,21.0,No Degree,No,No,9.0,No,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,6.0
+MERN Stack,BCK35,Mobigik technologies Pvt Ltd ,Software Engineer ,23.0,No Degree,No,No,11.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Web Development Using Python Django + React,BCK35,Eduport Academic Research Center Pvt Ltd,Software Engineer,23.0,No Degree,Yes,No,7.0,Yes,4.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+MERN Stack,BCE33,Dealsdray Online Pvt Ltd,Jr. Software Developer,22.0,Degree,Yes,No,11.0,Yes,3.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCK27,Techpearl Software Pvt. Ltd,Software Engineer ,21.0,No Degree,No,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.75
+MERN Stack,BCK38,Chalo Exam,Software Developer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCE36,Neutrinos,Associate Product Engineer.,22.0,Degree,Yes,No,9.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+Web Development Using Python Django + React,BCE34,Aspen Leads,Full Stack Web Developer,23.0,Degree,No,No,13.0,Yes,0.0,WFH,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,3.55
+MERN Stack,BCE34,Poumki Digital LLP,Full Stack Developer,23.0,No Degree,No,No,13.0,Yes,1.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE33,Scrut Automation,Intern - Frontend Developer,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Mobile Development Using Flutter,BCK31,Marlo Technologies,Junior Flutter Developer ,21.0,No Degree,Yes,No,7.0,Yes,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.25
+MEAN Stack,BCT37,FlexM Pvt. Ltd.,Full Stack Developer ,22.0,No Degree,Yes,No,9.0,Yes,5.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.0
+MERN Stack,BCE33,Quickint Solutions ,MERN Stack Developer,22.0,Degree,No,No,10.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE34,Metasoft IT Solutions,Full Stack Developer,24.0,Degree,No,No,13.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCK35,Techjays,Software Engineer 1,22.0,Degree,Yes,No,9.0,Yes,4.0,Ernakulam,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+MERN Stack,BCE30,Intuitive Soft Corp,Software Developer,23.0,No Degree,No,No,13.0,Yes,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Web Development Using Python Django + React,BCE34,Aspen Leads,Full Stack Developer,24.0,Degree,No,No,13.0,Yes,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.55
+Web Development Using Python Django + React,BCE30,Wade Fintech Pvt Ltd,Full Stack Web Developer ,22.0,No Degree,No,No,13.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Flutter,BCE36,"Netstat Monitor Enterprise, Malaysia",Jr. App Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,5.6
+Mobile Development Using Flutter,BCK41,Flyweis Technology,Flutter Developer ,22.0,Degree,No,No,11.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.2
+MERN Stack,BCK38,Accel Limited ,Software Engineer Trainee ,22.0,Degree,Yes,No,9.0,Yes,7.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCK38,Worxwide,MERN Stack Developer ,22.0,Degree,No,No,9.0,Yes,5.0,Chennai,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+MERN Stack,BCK29,Xcitech Technologies,MERN Stack Developer,24.0,Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MEAN Stack,BCE43,SCH Infotech Private Limited ,Developer Trainee,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Dart,Api integration,",Yes,5.5
+MERN Stack,BCE36,Chisquare Labs Pvt Ltd,Full Stack Developer ,22.0,Degree,Yes,No,10.0,Yes,2.0,Ernakulam,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Mobile Development Using Flutter,BCK38,Zapplogics Solutions LLP,Flutter Developer ,22.0,Degree,No,No,14.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCT37A,Value Creatives ,Analyst (Development),22.0,Degree,No,No,10.0,No,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+MERN Stack,BCK32,Kxence ERP Pvt. Ltd.,Full Stack Developer,21.0,Degree,No,No,16.0,Yes,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.36
+Mobile Development Using Flutter,BCK41,Inindia Corporation,Flutter Developer,22.0,No Degree,No,No,12.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Mobile Development Using Flutter,BCK46,Le Travenues Technology Limited,Software Engineer,22.0,Degree,Yes,No,12.0,No,2.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,5.5
+MERN Stack,BCE36,Neutrinos,Associate Software Engineer,22.0,No Degree,Yes,No,10.0,Yes,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE33,Akra Tech Pvt Ltd,Full Stack Developer,19.0,No Degree,No,No,12.0,No,4.0,Bangalore,"React, Node.js, MongoDB, SQL, HTML CSS JAVASCRIPT, EXPRESS, SOCKET IO,",Yes,3.0
+Web Development Using Python Django + React,BCE36,iTday India Pvt. Ltd.,Junior Backend Developer,25.0,No Degree,No,No,15.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCK38,Phone X App Solutions,MERN Stack Developer,21.0,Degree,No,No,11.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCK31,AutoBse,Full Stack Developer,23.0,No Degree,No,No,15.0,Yes,4.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.0
+Mobile Development Using Flutter,BCK32,Stackmod Innovations Pvt Ltd,Flutter Developer,22.0,Degree,Yes,No,10.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+MERN Stack,BCE34,DigiBlock Network Pvt Ltd,Full Stack Developer,23.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Mobile Development Using Flutter,BCK38,Zapplogics Solutions LLP,Flutter Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.8
+DevOps,BCK27,IMIT Park Ltd,DevOps Engineer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,Bangalore,"Flutter, firbase, API",Yes,3.36
+MERN Stack,BCK35,Digimeta ,React Developer ,22.0,Degree,No,No,12.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCE36,Craxinno Technologies Private Limited,MERN Stack Developer,22.0,No Degree,No,No,13.0,Yes,5.0,Manjeri Malappuram ,"React,node js , nest js , express js , jest,go etc",Yes,4.2
+MERN Stack,BCE36,Craxinno Technologies Private Limited,MERN Stack Developer,23.0,Degree,No,No,7.0,Yes,5.0,Chennai,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCT37A,Mentric Technologies W.L.L.,Tech Lead ,22.0,Degree,Yes,No,9.0,Yes,4.0,WFH,"React, Node, Html, CSS, Mongodb",Yes,6.5
+MEAN Stack,BCT42,Cordova Educational Solutions,MEAN Stack Developer,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCT42,The Elmex Brand,MERN Stack Developer,22.0,No Degree,No,No,9.0,No,3.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCK32,Ti Steps,Junior Full Stack Developer,22.0,No Degree,Yes,No,10.0,No,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCT37A,Maison D' Auraine,Full Stack Developer,22.0,No Degree,No,No,15.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Web Development Using Python Django + React,BCT37,Marlo Technologies,Junior Django Developer,23.0,No Degree,No,No,11.0,Yes,7.0,Manjeri Malappuram ,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,4.25
+MERN Stack,BCT37A,InFineIT Global Services LLP,Software Developer,21.0,Degree,Yes,No,10.0,No,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Golang,BCE40,Savvypool,DevOps Engineer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+MERN Stack,BCK35,HABU Inc,Full Stack Developer,22.0,Degree,No,No,13.0,Yes,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MEAN Stack,BCT42,Zil Money,Angular Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,7.5
+Golang,BCK57,Pantelwar Pvt Ltd,Software Development Engineer 1,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.5
+Golang,BCK57,Netxd,DevSecOps,23.0,No Degree,Yes,No,9.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCK29,AmruthaShala India Pvt Ltd.,Jr. React Developer,22.0,No Degree,Yes,No,10.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK35,Stackmod Innovations Pvt Ltd,React Developer,21.0,No Degree,Yes,No,10.0,No,7.0,On site,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.8
+Mobile Development Using Flutter,BCE34,Tree Integrated Services,Flutter Developer,23.0,Degree,No,No,12.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+Mobile Development Using Flutter,BCK35,Bluescope Information Technology,Flutter Developer,22.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.4
+Machine Learning,BCK29,Farms.io,Jr. ML Engineer,22.0,No Degree,Yes,No,10.0,Yes,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCK35,Webexcellis Websolutions,Software Engineer,21.0,Degree,Yes,No,10.0,No,4.0,Chennai,"React,Python,SQL,Django,Html,Css",Yes,5.0
+MERN Stack,BCE34,Marlo Technologies,Node js Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.25
+MERN Stack,BCE34,OpsKube,SDE-1,24.0,No Degree,No,No,10.0,No,1.0,Bangalore,"Html,Css, Javascript,Nodejs, React, Tailwind, Mongodb,Mysql",Yes,3.0
+Web Development Using Python Django + React,BCK35,Farms.io,Application Developer,24.0,Degree,Yes,No,9.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE36,Infotura Technologies ,MERN Stack Developer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+MERN Stack,BCE43,Marmeto,Node.js Developer,22.0,No Degree,Yes,No,12.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.4
+Web Development Using Python Django + React,BCK35,GreenTurtle Gaming Technologies Pvt Ltd,Python Developer,23.0,No Degree,No,No,12.0,Yes,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCK41,Neuralschema Infotech Pvt Ltd,Software Engineer,22.0,No Degree,Yes,No,8.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.5
+MERN Stack,BCE39,Gadgeon,Software Engineer,21.0,No Degree,No,No,9.0,No,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,5.4
+MERN Stack,BCE43,Caz Brain Pvt Ltd,Jr. React Developer,21.0,Degree,No,No,12.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+MERN Stack,BCK38,Monolith Technologies,Jr. Developer,23.0,No Degree,Yes,No,10.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MEAN Stack,BCK41,Dizabo,MEAN Stack Developer,22.0,Degree,Yes,No,10.0,No,2.0,WFH,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,9.4
+MEAN Stack,BCK41,Dizabo,MEAN Stack Developer,22.0,Degree,Yes,No,9.0,No,4.0,WFH,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,9.4
+MERN Stack,BCE36,Klenty Soft Inc,Software Development Engineer Trainee,22.0,Degree,No,No,14.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Mobile Development Using Flutter,BCK26,WebandCrafts,Flutter Developer,24.0,Degree,No,No,10.0,No,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.36
+MERN Stack,BCK41,Kimshuka Technologies Pvt. Ltd,Associate Software Engineer,22.0,No Degree,No,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+Web Development Using Python Django + React,BCT48,Accolades,Jr.Web Developer,24.0,No Degree,No,Yes [ Non IT industry ],13.0,Yes,1.0,Calicut ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Web Development Using Python Django,BCE40,Bshoot,Python Full Stack Developer,22.0,Degree,No,No,11.0,Yes,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCK51,Dream Care Developers,Full Stack Developer,24.0,Degree,No,No,16.0,Yes,4.0,Bangalore,"React, Node, Html, CSS, SCSS, Next",Yes,3.24
+MERN Stack,BCK35,Digimeta,React Developer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,2.0,Bangalore,"MongoDB, Express, React, Node JS, JavaScript, HTML, CSS, Bootstrap, TypeScript, NextJ, Tailwind CSS, MUI, GraphQL, Hasura,refine,",Yes,3.6
+MERN Stack,BCK35,Digimeta,React Developer,22.0,No Degree,No,No,12.0,Yes,5.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MEAN Stack,BCK49,Zycus Infotech,Software Engineer,22.0,No Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.5
+MERN Stack,BCK29,Adiya Business Solutions,Backend Developer,22.0,No Degree,Yes,No,11.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCE40,Techpearl Software Pvt. Ltd,Software Engineer,21.0,No Degree,No,No,10.0,No,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.75
+Machine Learning,BCK29,Safepro AI Video Research Labs Pvt. Ltd,Junior Computer Vision Developer,22.0,No Degree,No,No,10.0,No,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCK27,Akra Tech Pvt Ltd,Full Stack Developer,19.0,No Degree,No,No,12.0,No,2.0,WFH,"React, Node.js, MongoDB, SQL, HTML CSS JAVASCRIPT, EXPRESS, SOCKET IO,",Yes,3.6
+MERN Stack,BCK41,FinalApps,Junior Full Stack Developer,21.0,Degree,No,No,10.0,No,3.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+MERN Stack,BCK32,TruEquations Private Limited,Software Engineer,21.0,No Degree,Yes,No,8.0,Yes,5.0,On site,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+DevOps,BCK35,ITS Planners & Engineers Pvt Ltd,Associate Software Engineer,22.0,Degree,Yes,No,10.0,Yes,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.5
+DevOps,BCT37,NORQ Technologies,DevOps Engineer,21.0,No Degree,No,No,12.0,No,4.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+MERN Stack,BCT37,NORQ Technologies,Full Stack Developer,22.0,No Degree,No,No,11.0,No,7.0,Bangalore,"React,node js , nest js , express js , jest,go etc",Yes,3.6
+MERN Stack,BCE30,YouGotaGift Pvt. Ltd.,Front End Developer,21.0,Degree,Yes,No,10.0,No,7.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.14
+MERN Stack,BCK31,My Fav Designers,Junior Developer,23.0,Degree,No,No,10.0,Yes,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCT37,Prodigit,Junior Developer,23.0,Degree,No,No,10.0,No,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MERN Stack,BCE36,Lilac Infotech,Software Engineer,22.0,No Degree,No,No,9.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCK45,Unvoid Tech,Full Stack Developer,24.0,Degree,No,No,16.0,Yes,4.0,Bangalore,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,4.0
+MERN Stack,BCK38,CapSync,Full Stack Developer,23.0,Degree,No,No,13.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCK38,Techcrista,Full Stack Developer,24.0,No Degree,No,Yes [ Non IT industry ],15.0,Yes,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+MERN Stack,BCK41,Systech,Junior Software Developer,22.0,Degree,Yes,No,10.0,Yes,3.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.2
+MEAN Stack,BCE40,Quazma,Full Stack Developer,22.0,Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,6.0
+MERN Stack,BCT42,Aidetic Software Private Limited,Full Stack Developer,23.0,No Degree,No,Yes [ Non IT industry ],11.0,No,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,11.5
+Cybersecurity,BCT42,NORQ Technologies,Cyber Security Engineer,23.0,No Degree,No,No,10.0,Yes,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Machine Learning,BCK29,Farms.io,Jr. Machine Learning Engineer,23.0,No Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE30,NewAgeSys Solutions,Software Engineer (Trainee),23.0,Degree,No,No,11.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Web Development Using Python Django + React,BCE36,Romulus Oil and Gas,Full Stack Engineer,23.0,Degree,Yes,No,10.0,Yes,2.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.5
+MERN Stack,BCK38,Aidetic Software Private Limited,Full Stack Developer,23.0,No Degree,Yes,No,10.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+MERN Stack,BCT42,Boohoo Group Plc,Junior Node js Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,30.0
+MERN Stack,BCT54,M Squared Software & Services (P) Ltd,Junior Software Developer,21.0,Degree,No,No,12.0,No,5.0,Hyderabad,"Html, Css, Javascript, Node.Js,Mongo db, Redux, React. Js, React Neative",Yes,3.0
+MERN Stack,BCT37,Naarsoft Tech Service,Software Engineer,23.0,Degree,No,No,10.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+MEAN Stack,BCT48,Admaren Technology Pvt Ltd,Front End Developer,21.0,No Degree,No,No,10.0,No,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+MERN Stack,BCE30,NewAgeSys Solutions,Software Engineer,21.0,No Degree,No,No,9.0,No,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.0
+MERN Stack,BCK41,Vidyalai,Full Stack developer Trainee,23.0,Degree,Yes,No,9.0,No,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,6.0
+MERN Stack,BCK38,NewAgeSys Solutions,Software Engineer Trainee,22.0,Degree,Yes,No,12.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+MERN Stack,BCT54,NewAgeSys Solutions,Software Engineer Trainee,19.0,No Degree,No,Bca dropout ,12.0,No,0.0,Nagercoil ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+MERN Stack,BCE36,Thapovan Info Systems Pvt Ltd,Junior Programmer Analyst,27.0,Degree,No,Yes [ Non IT industry ],11.0,No,2.0,Bangalore,"React, Node, Nest, Next, HTML, CSS, MUI, Socket.io, MongoDB, Javascript, Bootstrap, Tailwind CSS, jQuery, Redux, Express JS, Mongoose, JWT, Git, Postman, Firebase, Vercel, Nginx",Yes,4.0
+MERN Stack,BCK45,Aidetic Software Private Limited,Full Stack Web Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.5
+MERN Stack,BCT54,Avodha,MERN Stack Trainer,21.0,Degree,No,No,10.0,No,7.0,Manjeri Malappuram ,"Html, Css, Javascript, Node.Js,Mongo db, Redux, React. Js, React Neative",Yes,3.0
+Mobile Development Using Flutter,BCE40,Savvypool,Flutter Developer,22.0,No Degree,Yes,No,12.0,Yes,3.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+Mobile Development Using Flutter,BCK31,ManyaTechnosys ,Software Developer,22.0,No Degree,No,No,12.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.84
+MERN Stack,BCT37A,Seqato,Software Engineer,22.0,Degree,No,No,10.0,No,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.24
+MERN Stack,BCK41,Tesseract TechnoLabs Private Limited,Junior MERN Stack Developer,22.0,Degree,Yes,No,10.0,No,4.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.86
+Web Development Using Python Django + React,BCK41,Contact Point 360,Junior Python Developer,22.0,No Degree,No,No,7.0,Yes,5.0,Bangalore,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,3.0
+MERN Stack,BCE30,FlexM Pvt. Ltd.,Junior Software Developer ,22.0,No Degree,Yes,No,12.0,Yes,7.0,Hyderabad,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.0
+MERN Stack,BCT42,Kxence ERP Pvt. Ltd.,Full Stack Developer,22.0,Degree,No,No,15.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.36
+Web Development Using Python Django + React,BCE36,1ClickTech Global Services Pvt Ltd,Junior Python Developer,22.0,No Degree,No,No,14.0,Yes,5.0,Manjeri Malappuram ,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,3.6
+DevOps,BCK31,Techgentsia,Junior DevOps Engineer,23.0,Degree,No,No,11.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+MERN Stack,BCK38,Thapovan Info Systems Pvt Ltd,Junior Programmer Analyst,21.0,No Degree,No,No,12.0,No,7.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.0
+Web Development Using Python Django + React,BCE36,Clever Space,Software Engineer,24.0,No Degree,No,No,13.0,Yes,2.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Mobile Development Using Flutter,BCE34,Independent Music Platform (IMP),Flutter Developer,22.0,No Degree,No,No,12.0,No,1.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+Mobile Development Using Flutter,BCT37,Subhaprada Holdings Pvt Ltd,Flutter + Firebase Developer,24.0,Degree,No,No,9.0,No,0.0,WFH,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.8
+MERN Stack,BCE47,Factweavers,Full Stack Developer,23.0,No Degree,No,No,15.0,Yes,4.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.5
+MERN Stack,BCK38,FlexM Pvt. Ltd.,Junior Software Developer,22.0,Degree,Yes,No,10.0,Yes,4.0,Calicut ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.0
+MERN Stack,BCK46,Avodha,MERN Stack Tutor,22.0,Degree,No,No,9.0,Yes,7.0,Chennai,"React,node js , nest js , express js , jest,go etc",Yes,3.6
+MERN Stack,BCK49,Approlabs ,Software Developer ,21.0,Degree,Yes,No,10.0,No,7.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+MERN Stack,BCT42,White Rabbit Group,Trainee Software Engineer,21.0,Degree,Yes,No,10.0,No,4.0,On site,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.8
+MERN Stack,BCK51,Smart Infrastructure (Radise India),Junior Software Engineer ,21.0,Degree,Yes,No,10.0,No,4.0,Chennai,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,6.0
+MERN Stack,BCK41,ChargeMod,Software Engineer,23.0,Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+Mobile Development Using Flutter,BCE44,TIC Technologies and Solutions,Flutter Developer,23.0,Degree,No,No,10.0,Yes,1.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCT48,TL Technologies Pvt Ltd,NodeJs Developer,23.0,No Degree,No,No,12.0,No,0.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.24
+Mobile Development Using Flutter,BCT54,TL Technologies Pvt Ltd,Flutter Developer,22.0,No Degree,No,No,12.0,Yes,1.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.9
+Mobile Development Using Flutter,BCT54,TL Technologies Pvt Ltd,Flutter Developer,22.0,Degree,No,No,11.0,Yes,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.24
+Mobile Development Using Flutter,BCE40,Awad Alaryani Advocates & Legal Consultancy,Flutter Developer ,22.0,No Degree,Yes,No,7.0,Yes,4.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.8
+MEAN Stack,BCT42,Zil Money,Angular Developer ,23.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.3
+Web Development Using Python Django + React,BCK35,AmruthaShala India Pvt Ltd.,Jr. React & Python Developer,23.0,No Degree,No,No,12.0,Yes,4.0,Manjeri,"Angular, Node JS, Express JS, HTML, CSS, Linux, MongoDB, Vim",Yes,4.0
+MEAN Stack,BCK49,Zil Money,Angular Developer ,22.0,No Degree,Yes,No,8.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.7
+MEAN Stack,BCK45,Zil Money,Angular Developer ,22.0,No Degree,Yes,No,10.0,Yes,4.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.7
+Web Development Using Python Django,BCT42,YouGotaGift Pvt. Ltd.,Member of Technical Staff,23.0,Degree,Yes,No,10.0,Yes,5.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.5
+MERN Stack,BCK46,SuperDev,Front End Developer,22.0,No Degree,No,No,12.0,No,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.6
+Mobile Development Using Flutter,BCK46,Octohub Technologies Pvt Ltd,Flutter Developer,22.0,Degree,No,No,13.0,Yes,0.0,WFH,"Flutter, firbase, API",Yes,4.0
+MERN Stack,BCK38,Farms.io,Application Developer,22.0,No Degree,No,No,10.0,No,5.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.0
+MERN Stack,BCE36,Farms.io,Mobile Developer,21.0,Degree,Yes,No,7.0,No,7.0,Manjeri Malappuram ,"React, Node js, html, css, bootstrap, git, Ms office, Mysql, mongodb, express js.",Yes,4.5
+MERN Stack,BCT42,SourceMonq Technologies Pvt Ltd,Full Stack Developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,5.0
+MERN Stack,BCK41,Farms.io,Application Developer,21.0,Degree,Yes,No,9.0,No,4.0,Calicut ,"React js ,React query",Yes,4.5
+MERN Stack,BCK38,Promena LLP,MERN Stack Developer,23.0,Degree,Yes,No,10.0,Yes,2.0,WFH,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,3.0
+Mobile Development Using Flutter,BCE44,Victaman Services Pvt. Ltd.,Flutter Developer,23.0,No Degree,No,No,12.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,5.2
+MERN Stack,BCE44,Duple IT Solutions Pvt. Ltd.,Software Development Engineer-1,23.0,Degree,Yes,No,10.0,Yes,7.0,Manjeri Malappuram ,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.1
+MERN Stack,BCE47,Duple IT Solutions Pvt. Ltd.,Software Development Engineer-1,22.0,Degree,No,No,10.0,No,0.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",No,4.1
+Golang,BCE34,CWD Ltd,Golang Developer,21.0,No Degree,Yes,No,9.0,Yes,7.0,Hyderabad,"React, Node, Html, css, js, express, aws, docker, niginx, typescipt",Yes,5.5
+DevOps,BCT42,CWD Ltd,DevOps Engineer ,22.0,No Degree,Yes,No,9.0,No,2.0,Bangalore,"React js, node js, mongodb, express js, html& css,sass,aws,jquary, my sql, bootstrap, mui etc..",Yes,8.0
+MERN Stack,BCK35,Aapka CFO,Frontend Engineer,22.0,No Degree,Yes,No,10.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,5.0
+MERN Stack,BCT54,Safe Software and Integrated Solutions Pvt Ltd,Junior Software Developer ,24.0,Degree,No,No,10.0,No,2.0,Kochi,"Html,Css, Javascript,Nodejs, React, Tailwind, Mongodb,Mysql",Yes,3.6
+MERN Stack,BCT37A,NORQ Technologies,Junior Nodejs Developer ,22.0,Degree,No,No,11.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+Golang,BCE39,SimSol,Software Engineer,22.0,Degree,Yes,No,10.0,Yes,7.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,4.2
+Web Development Using Python Django + React,BCE33,Digital Prizm Pte. Ltd.,Junior Software Developer,22.0,Degree,No,No,12.0,Yes,0.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.0
+MERN Stack,BCE44,Unada Labs Pvt Ltd,L1 Web Developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.6
+Mobile Development Using Flutter,BCK32,Subhaprada Holdings Pvt Ltd,Flutter + Firebase Developer,22.0,No Degree,No,No,9.0,Yes,5.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,4.4
+MERN Stack,BCE33,Tapclone,Mern Stack Developer,22.0,Degree,Yes,No,12.0,Yes,2.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.0
+MERN Stack,BCE44,Best Engineering Aids and Consultancies Pvt Ltd (BEACON),Full Stack Developer,22.0,No Degree,No,No,12.0,No,2.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+MERN Stack,BCE44,Best Engineering Aids and Consultancies Pvt Ltd (BEACON),Full Stack Developer,22.0,Degree,Yes,No,11.0,No,4.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,6.0
+MERN Stack,BCK46,MCABEE,Full Stack Developer ,22.0,Degree,Yes,No,10.0,Yes,5.0,Chennai,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,4.2
+Mobile Development Using Flutter,BCE40,MCABEE,Flutter Developer,22.0,No Degree,No,No,11.0,Yes,7.0,Manjeri Malappuram ,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+MERN Stack,BCE36,Nova Healthcare Management Systems Limited ,Junior Software Developer,22.0,No Degree,No,No,9.0,No,7.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,3.0
+Mobile Development Using Flutter,BCK38,Ampcome Technologies Pvt Ltd,Flutter Developer ,22.0,No Degree,No,No,10.0,No,7.0,Bangalore,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,3.6
+MERN Stack,BCK32,Voxelkraftz Pvt Ltd,Junior Full Stack Developer,23.0,No Degree,No,No,11.0,No,3.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
+Web Development Using Python Django + React,BCK32,Zaigo Infotech ,Junior Developer,23.0,No Degree,No,No,12.0,Yes,7.0,Manjeri,"Python, HTML, CSS, Deep Learning, OpenCV, CNN, Computer Vision",Yes,4.2
+Web Development Using Python Django + React,BCE36,Zaigo Infotech ,Junior Developer,24.0,Degree,No,No,11.0,Yes,1.0,WFH,"React,node,js,typescript,expresses,mongodb,html,css,tailwind css, ",Yes,4.2
+Mobile Development Using Flutter,BCK32,Ampcome Technologies Pvt Ltd,Flutter Developer ,24.0,Degree,No,No,13.0,Yes,1.0,Bangalore,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+MERN Stack,BCK46,Avalontribe Infotech,MERN Developer ,22.0,No Degree,No,No,10.0,No,4.0,Bangalore,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,9.35
+MERN Stack,BCK46,Avalontribe Infotech,MERN Developer ,21.0,Degree,Yes,No,10.0,No,4.0,On site,"React,Node,HTML,CSS,Java Script,Redux,JQuery,",Yes,5.5
+Mobile Development Using Flutter,BCK38,Ampcome Technologies Pvt Ltd,Jr. Flutter Developer,21.0,Degree,No,No,10.0,No,1.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",Yes,3.6
+Web Development Using Python Django,BCE40,Zelthy,Jr. Software Developer,22.0,No Degree,Yes,No,10.0,No,7.0,Manjeri Malappuram ,"Angular, Express, Node, MongoDB, MySQL, Typescript, Html, CSS, Ajax, jquery, DataStrures",Yes,6.0
+Mobile Development Using Flutter,BCK38,Ampcome Technologies Pvt Ltd,Flutter Developer,24.0,No Degree,No,No,10.0,No,0.0,WFH,"React, Node, HTML, CSS, TailwindCSS, SCSS, MongoDB, AWS, Git, SQL",No,3.6
