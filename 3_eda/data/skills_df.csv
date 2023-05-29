@@ -1,0 +1,671 @@
+,domain,designation,age,degree,cs_bg,experience,avg_time,holidays,week_back,city,graduated,mongodb,api,jwt,linux,sas,firebase,cnn,nginx,dart,postman,aws,jest,next,html,hasura,communication,vercel,django,docker,graphql,mysql,mui,opencv,python,express,flutter,ajax,vim,bootstrap,git,node,typescript,mongoose,react,tailwind,javascript,jquery,angular,sql,redux,salary
+0,web development using python django,software engineer,22.0,No Degree,No,No,9.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+1,web development using node.js express,software engineer,21.0,Degree,No,No,12.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.16
+2,web development using python django,nodejs developer,22.0,Degree,Yes,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+3,mern stack,software developer,23.0,No Degree,No,No,11.0,Yes,7.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.55
+4,web development using python django,software engineer,22.0,No Degree,No,No,10.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+5,mern stack,nodejs developer,21.0,Degree,No,No,12.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+6,mern stack,software developer,21.0,No Degree,Yes,No,8.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.2
+7,web development using python django,software developer,27.0,No Degree,No,Yes [ Non IT industry ],12.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1.8
+8,web development using python django,django developer,23.0,Degree,No,No,10.0,No,3.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+9,devops,assistant manager (it),22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,8.0
+10,mobile development using android kotlin,android developer,24.0,Degree,Yes,No,10.0,Yes,5.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+11,web development using python django,software engineer,22.0,Degree,No,No,12.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.58
+12,mern stack,junior software engineer,24.0,Degree,No,No,12.0,No,2.0,bangalore,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.7
+13,web development using python django,software engineer,24.0,Degree,No,No,10.0,Yes,7.0,wfh,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4
+14,web development using python django,junior software engineer,22.0,Degree,Yes,No,11.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1.8
+15,web development using python django,software developer,22.0,No Degree,No,No,13.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+16,mern stack,software engineer,23.0,Degree,Yes,No,10.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.0
+17,mern stack,full stack developer,23.0,No Degree,No,No,12.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.64
+18,mern stack,junior nodejs developer,24.0,Degree,Yes,No,12.0,Yes,1.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2.16
+19,web development using python django,python developer,24.0,No Degree,No,No,15.0,Yes,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.64
+20,web development using python django,software engineer,22.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,4.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,3.36
+21,web development using python django,fullstack developer,22.0,No Degree,No,No,15.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+22,web development using node.js express,software engineer,25.0,Diploma,No,Yes [ Non IT industry ],13.0,Yes,0.0,hyderabad,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+23,mobile development using android kotlin,junior android developer,22.0,Degree,Yes,No,12.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.76
+24,mern stack,node js trainee,22.0,Degree,Yes,No,12.0,Yes,4.0,hyderabad,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.4
+25,cybersecurity,software engineer,22.0,No Degree,No,No,12.0,No,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1.8
+26,mern stack,junior fullstack developer,21.0,Degree,No,No,12.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+27,machine learning,product engineer -ai/ml,24.0,No Degree,No,No,12.0,No,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+28,web development using python django,junior software engineer,23.0,No Degree,No,No,12.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+29,web development using python django,junior full stack developer,21.0,No Degree,No,No,10.0,No,5.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.24
+30,mern stack,mern stack developer,21.0,No Degree,No,No,9.0,No,5.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+31,mern stack,mern stack developer,22.0,Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.7
+32,mern stack,product engineer,24.0,No Degree,No,No,12.0,No,7.0,kochi,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+33,mern stack,nodejs developer,21.0,No Degree,No,No,10.0,No,7.0,hyderabad,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2.4
+34,web development using python django,python developer intern,23.0,No Degree,No,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.4
+35,web development using node.js express,nodejs developer,24.0,No Degree,No,Yes [ Non IT industry ],14.0,Yes,0.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.4
+36,web development using python django,python django developer,23.0,Degree,No,No,14.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.64
+37,web development using python django,software engineer,22.0,No Degree,Yes,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.25
+38,web development using python django,backend developer,22.0,No Degree,No,No,13.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+39,mobile development using flutter,mobile app developer,22.0,No Degree,Yes,No,9.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+40,web development using python django,software developer,23.0,No Degree,No,No,10.0,Yes,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2.4
+41,mern stack,junior software engineer,22.0,Degree,Yes,No,12.0,Yes,4.0,hyderabad,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.52
+42,web development using python django,software developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.5
+43,web development using python django,software developer,24.0,No Degree,No,No,11.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+44,web development using python django,python developer,22.0,No Degree,No,No,9.0,Yes,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2.64
+45,mern stack,software developer,26.0,Degree,No,Yes [ Non IT industry ],13.0,Yes,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.2
+46,web development using node.js express,node js developer,24.0,No Degree,No,Yes [ Non IT industry ],12.0,No,0.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.84
+47,mobile development using flutter,flutter developer,21.0,No Degree,Yes,No,9.0,Yes,7.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.5
+48,web development using python django,python developer,22.0,Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.0
+49,web development using python django,junior software engineer,22.0,Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.2
+50,web development using python django,developer,22.0,Degree,Yes,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+51,web development using node.js express,poduct engineer,23.0,Degree,No,No,11.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+52,web development using node.js express,node js developer,22.0,No Degree,No,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+53,web development using node.js express,associate engineer,22.0,No Degree,No,No,14.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.4
+54,mobile development using flutter,flutter developer,23.0,Degree,No,No,13.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+55,mern stack,software developer,23.0,No Degree,Yes,No,8.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+56,web development using python django,technical team,22.0,Degree,Yes,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+57,web development using python django,backend developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+58,web development using python django,intern cto,22.0,No Degree,No,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+59,mern stack,developer,22.0,No Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.5
+60,mern stack,developer,22.0,Degree,Yes,No,10.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+61,mern stack,mern stack developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+62,web development using node.js express,junior software engineer,22.0,No Degree,No,No,9.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+63,web development using python django,developer,22.0,Degree,Yes,No,12.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+64,web development using node.js express,junior software engineer,22.0,Degree,No,No,12.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+65,web development using python django,full stack developer,22.0,Degree,No,No,10.0,Yes,1.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+66,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+67,mobile development using flutter,junior flutter developer,22.0,Degree,Yes,No,10.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+68,mern stack,developer,22.0,No Degree,No,No,9.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+69,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,6.0
+70,mern stack,node js developer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.7
+71,mern stack,nodejs developer,23.0,No Degree,No,No,11.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+72,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,6.36
+73,mobile development using swift,ios developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+74,mobile development using flutter,flutter developer,23.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.2
+75,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,8.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.2
+76,mern stack,software developer,23.0,Degree,No,No,9.0,Yes,5.0,calicut,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+77,web development using python django,python developer,22.0,Degree,No,No,12.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.5
+78,mern stack,mern stack developer,23.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.36
+79,mobile development using android kotlin,software developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.65
+80,mern stack,mern stack developer,22.0,Degree,Yes,No,10.0,No,2.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+81,mern stack,mern stack developer,23.0,Degree,Yes,No,9.0,No,1.0,trivandrum,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.8
+82,mern stack,mern stack developer,22.0,Degree,Yes,No,13.0,Yes,4.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,4.0
+83,web development using python django,junior software engineer,23.0,Degree,Yes,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.96
+84,web development using python django,assosiate software engineer,23.0,No Degree,No,No,13.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+85,mobile development using android kotlin,software developer engineer,22.0,No Degree,Yes,No,13.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+86,mobile development using swift,ios developer,21.0,Degree,No,No,16.0,Yes,0.0,wfh,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+87,mern stack,executive research informatics,23.0,Degree,No,No,15.0,Yes,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+88,mern stack,fullstack developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+89,mern stack,web gl developer,23.0,No Degree,No,Yes [ Non IT industry ],15.0,Yes,0.0,bangalore,Yes,1,0,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,3.6
+90,mern stack,junior software engineer,21.0,Degree,No,No,12.0,No,2.0,others,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+91,mern stack,junior software engineer,19.0,No Degree,No,No,16.0,Yes,2.0,nagercoil,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+92,web development using python django,software development engineer i,22.0,Degree,No,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.1
+93,mern stack,independent consultant,22.0,Degree,No,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+94,mern stack,software engineer,21.0,Degree,Yes,No,14.0,Yes,7.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5.3
+95,mern stack,software engineer,19.0,No Degree,Yes,No,12.0,Yes,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,6.0
+96,mern stack,full stack developer,26.0,Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,calicut,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,4.8
+97,web development using python django,data engineer,21.0,Degree,Yes,No,12.0,No,4.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5.0
+98,web development using python django,data engineer,23.0,No Degree,Yes,No,9.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+99,mern stack,frontend developer,21.0,No Degree,No,No,12.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.5
+100,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+101,mern stack,trainee software engineer,22.0,No Degree,Yes,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+102,mern stack,software engineer,21.0,Degree,Yes,No,12.0,No,4.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,6.0
+103,mern stack,software developer,22.0,No Degree,Yes,No,11.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+104,web development using python django + react,fullstack developer,22.0,No Degree,No,No,13.0,Yes,3.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+105,web development using python django + react,python developer,22.0,Degree,No,No,15.0,Yes,1.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,13.0
+106,web development using python django,junior back end developer,21.0,No Degree,No,No,16.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+107,mern stack,mern stack developer,19.0,No Degree,No,No,16.0,Yes,3.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+108,mern stack,fullstack developer,22.0,Degree,Yes,No,14.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,7.5
+109,mern stack,senior systems engineer,22.0,Degree,Yes,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+110,mobile development using flutter,flutter developer,21.0,No Degree,Yes,No,11.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+111,mern stack,mern stack developer,21.0,Degree,Yes,No,12.0,No,4.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.5
+112,mobile development using flutter,junior flutter developer,21.0,Degree,Yes,No,16.0,Yes,1.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,3.6
+113,mern stack,trainee software engineer,22.0,Degree,Yes,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+114,mobile development using flutter,trainer-ip,21.0,Degree,No,No,11.0,No,4.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+115,mobile development using flutter,software engineer,21.0,Degree,Yes,No,15.0,Yes,0.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,4.2
+116,mern stack,mern stack developer,22.0,No Degree,No,No,15.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+117,mern stack,backend developer,22.0,Degree,Yes,No,10.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+118,mern stack,software engineer,22.0,Degree,Yes,No,11.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+119,mobile development using flutter,associate software engineer,23.0,No Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+120,mern stack,junior software engineer,19.0,No Degree,No,No,12.0,No,3.0,others,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+121,web development using python django,member of technical staff,22.0,Degree,Yes,No,13.0,Yes,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.12
+122,mern stack,trainee software engineer,23.0,No Degree,Yes,No,11.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+123,web development using python django,member of technical staff,21.0,No Degree,Yes,No,14.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.5
+124,mobile development using swift,ios developer,23.0,No Degree,No,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+125,web development using python django,backend developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+126,mern stack,associate software engineer,21.0,Degree,Yes,No,10.0,No,4.0,nagercoil,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.9
+127,mern stack,fullstack developer,22.0,Degree,No,No,13.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.0
+128,mern stack,software developer,22.0,No Degree,Yes,No,9.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,8.0
+129,web development using python django,associate full stack developer,22.0,No Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,6.0
+130,mobile development using flutter,software engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+131,mern stack,trainee software engineer,22.0,Degree,No,No,9.0,No,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+132,mern stack,software engineer,22.0,No Degree,Yes,No,7.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+133,devops,devops engineer,21.0,Degree,No,No,16.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.4
+134,mern stack,junior back end developer,21.0,Degree,Yes,No,15.0,Yes,2.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,8.6
+135,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.4
+136,mern stack,mern stack developer,22.0,Degree,Yes,No,12.0,No,2.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7.4
+137,mern stack,frontend developer,22.0,Degree,Yes,No,10.0,Yes,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.4
+138,mern stack,fullstack developer,22.0,Degree,Yes,No,14.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.4
+139,mobile development using android kotlin,associate android developer,21.0,No Degree,Yes,No,12.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+140,blockchain,block chain developer intern,22.0,No Degree,Yes,No,14.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.7
+141,web development using python django,trainee software engineer,22.0,Degree,Yes,No,9.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+142,mern stack,app developer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.4
+143,mern stack,junior software engineer,22.0,No Degree,Yes,No,13.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+144,mobile development using flutter,junior software engineer,23.0,No Degree,No,No,11.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+145,mern stack,fullstack developer,23.0,No Degree,No,No,16.0,Yes,7.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+146,cybersecurity,intern - member of technical staff,22.0,No Degree,Yes,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1.8
+147,mern stack,junior back end developer,22.0,Degree,No,No,13.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+148,mern stack,frontend developer,21.0,Degree,Yes,No,10.0,No,4.0,manjeri,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+149,mern stack,nodejs developer,22.0,No Degree,Yes,No,8.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.4
+150,mobile development using flutter,associate software developer,22.0,Degree,Yes,No,8.0,No,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+151,mern stack,fullstack developer,22.0,No Degree,No,No,12.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+152,machine learning,backend developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+153,mobile development using flutter,technology associate,22.0,No Degree,No,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.7
+154,web development using python django,technology associate,25.0,Degree,No,Yes [ Non IT industry ],14.0,Yes,1.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.7
+155,mern stack,mern stack developer,23.0,No Degree,Yes,No,9.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+156,machine learning,django developer,22.0,Degree,Yes,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+157,mern stack,fullstack developer,21.0,No Degree,Yes,No,10.0,No,7.0,others,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,4.5
+158,mern stack,nodejs developer,21.0,Degree,Yes,No,9.0,No,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5.0
+159,mobile development using flutter,software development engineer i,22.0,No Degree,No,No,11.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.0
+160,mern stack,associate software engineer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+161,mern stack,associate software technologist,22.0,Degree,Yes,No,9.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.5
+162,mern stack,associate product engineer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.5
+163,mobile development using flutter,flutter developer intern,22.0,No Degree,No,No,13.0,Yes,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+164,mern stack,software developer trainee,24.0,No Degree,No,No,11.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,7.5
+165,mern stack,mern stack developer,23.0,No Degree,Yes,No,9.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+166,mern stack,associate software developer,21.0,Degree,Yes,No,10.0,No,4.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,5.5
+167,mern stack,associate software engineer,21.0,Degree,Yes,No,10.0,No,7.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.5
+168,mern stack,junior front end developer,21.0,Degree,Yes,No,10.0,No,4.0,calicut,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,4.8
+169,mern stack,nodejs developer,21.0,Degree,Yes,No,10.0,No,4.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+170,mern stack,software developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.5
+171,mern stack,software developer,22.0,No Degree,Yes,No,7.0,Yes,7.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,8.0
+172,mern stack,react developer,21.0,Degree,Yes,No,10.0,No,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.8
+173,mern stack,fullstack developer,22.0,Degree,No,No,12.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+174,web development using python django + react,software engineer,23.0,No Degree,Yes,No,10.0,Yes,4.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,5.5
+175,mern stack,associate software technologist,21.0,Degree,Yes,No,9.0,No,7.0,others,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,6.5
+176,mern stack,system software engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,8.12
+177,web development using python django,python developer,23.0,Degree,Yes,No,10.0,No,2.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,10.0
+178,mobile development using flutter,software developer intern,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7.0
+179,mobile development using flutter,software developer,21.0,No Degree,No,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+180,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+181,mern stack,fullstack developer,22.0,No Degree,Yes,No,10.0,Yes,5.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.4
+182,mobile development using flutter,software engineer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+183,web development using python django,python django developer,22.0,Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+184,mobile development using android kotlin,android developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,8.6
+185,mobile development using android kotlin,android officer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,10.0
+186,mobile development using flutter,software design engiineer,22.0,No Degree,Yes,No,7.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+187,mobile development using flutter,software engineer,22.0,No Degree,No,No,11.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+188,mobile development using flutter,mobile application developer,23.0,No Degree,No,No,13.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+189,frontend development using react,react developer,22.0,No Degree,No,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+190,web development using python django,junior software developer,19.0,No Degree,No,No,16.0,Yes,7.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.2
+191,mern stack,software engineer,21.0,Degree,Yes,No,10.0,No,4.0,nagercoil,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5.4
+192,mern stack,junior software engineer,21.0,Degree,Yes,No,9.0,Yes,4.0,hyderabad,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.8
+193,mern stack,full stack engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,8.5
+194,mobile development using flutter,flutter developer,22.0,Degree,No,No,9.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,7.8
+195,mobile development using flutter,flutter developer,21.0,No Degree,Yes,No,8.0,Yes,4.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,4.5
+196,cybersecurity,engineer,22.0,Degree,No,No,10.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.5
+197,mobile development using flutter,software engineer,22.0,No Degree,Yes,No,9.0,No,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+198,web development using python django,python developer,22.0,No Degree,Yes,No,11.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+199,cybersecurity,soc analyst,22.0,Degree,Yes,No,12.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.5
+200,mobile development using flutter,flutter developer,23.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,6.0
+201,mern stack,fullstack developer,22.0,No Degree,No,No,11.0,No,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+202,mern stack,software developer,22.0,Degree,Yes,No,9.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+203,mern stack,backend developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+204,mobile development using android kotlin,junior software engineer,22.0,No Degree,No,No,14.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+205,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,7.0,No,7.0,manjeri,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+206,mern stack,trainee software engineer,22.0,Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.2
+207,mern stack,trainee software engineer,23.0,No Degree,Yes,No,7.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.2
+208,mern stack,fullstack developer,23.0,Degree,Yes,No,9.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+209,mern stack,fullstack developer,22.0,Degree,Yes,No,12.0,Yes,2.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+210,web development using python django + react,fullstack developer,22.0,Degree,Yes,No,12.0,Yes,1.0,manjeri,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,5.5
+211,mern stack,fullstack developer,23.0,Degree,Yes,No,9.0,Yes,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+212,mobile development using flutter,software developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+213,web development using python django,trainee software engineer,22.0,No Degree,No,No,10.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+214,mern stack,junior software developer,23.0,No Degree,No,No,12.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.5
+215,mobile development using flutter,software developer,22.0,No Degree,Yes,No,7.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+216,mobile development using flutter,software developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+217,mern stack,trainee software engineer,24.0,No Degree,No,Yes [ Non IT industry ],13.0,Yes,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+218,mobile development using flutter,software developer,22.0,Degree,No,No,12.0,Yes,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.3
+219,web development using python django,fullstack developer,23.0,Degree,Yes,No,10.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+220,mobile development using flutter,junior developer,23.0,No Degree,No,No,15.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.0
+221,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5.5
+222,mern stack,fullstack developer,22.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+223,mobile development using flutter,trainee software engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5
+224,mern stack,fullstack developer,22.0,No Degree,No,No,15.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+225,mobile development using flutter,trainee software engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5
+226,web development using python django,web developer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.12
+227,mern stack,fullstack developer,22.0,No Degree,Yes,No,13.0,Yes,7.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,4.0
+228,mern stack,fullstack developer,21.0,Degree,No,No,10.0,No,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+229,web development using python django,fullstack developer,23.0,No Degree,No,No,9.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.8
+230,mobile development using flutter,flutter developer,22.0,Degree,No,No,10.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+231,mern stack,junior software engineer,22.0,No Degree,No,No,10.0,No,4.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+232,mobile development using flutter,junior flutter developer,22.0,Degree,No,No,12.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.76
+233,mern stack,junior software engineer,22.0,Degree,Yes,No,13.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.5
+234,mern stack,junior software engineer,22.0,Degree,No,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.5
+235,mern stack,junior software engineer,22.0,No Degree,No,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+236,mobile development using flutter,fullstack developer,22.0,No Degree,Yes,No,7.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+237,mobile development using flutter,frontend developer,22.0,No Degree,No,No,7.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+238,mern stack,junior developer,22.0,Degree,Yes,No,12.0,Yes,4.0,ernakulam,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,4.0
+239,web development using python django + react,full stack developer,23.0,No Degree,No,No,10.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2.4
+240,web development using python django,full stack developer,22.0,Degree,No,No,11.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+241,game development using unity,unity 3d developer,26.0,Degree,No,No,12.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.2
+242,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+243,mean stack,angular developer,23.0,No Degree,No,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+244,mobile development using flutter,flutter developer,23.0,No Degree,No,No,12.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+245,mobile development using flutter,flutter developer,21.0,Degree,Yes,No,10.0,No,1.0,nagercoil,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.11
+246,mobile development using flutter,flutter engineer,23.0,Degree,Yes,No,10.0,Yes,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+247,mern stack,software development engineer,22.0,No Degree,Yes,No,10.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+248,mern stack,software development engineer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+249,web development using python django + react,software developer,24.0,No Degree,No,No,13.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+250,mern stack,full stack engineer,23.0,No Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+251,mern stack,junior fullstack developer,22.0,No Degree,Yes,No,9.0,No,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+252,mern stack,junior fullstack developer,22.0,No Degree,Yes,No,7.0,No,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+253,mern stack,junior developer,19.0,No Degree,No,No,9.0,No,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,2.4
+254,mobile development using flutter,mobile app developer,21.0,No Degree,Yes,No,9.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.8
+255,mern stack,mern stack developer,22.0,No Degree,Yes,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+256,web development using python django + react,technology associate,23.0,No Degree,No,No,14.0,Yes,0.0,wfh,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7
+257,mern stack,software developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,6.0
+258,mern stack,full stack engineer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+259,mobile development using flutter,application developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+260,web development using python django + react,junior software developer,24.0,No Degree,No,No,12.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+261,web development using python django + react,software development engineer,23.0,No Degree,No,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,4.8
+262,game development using unity,senior game developer,31.0,Degree,No,No,9.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+263,mobile development using flutter,junior software engineer,23.0,No Degree,No,No,13.0,Yes,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+264,mobile development using flutter,junior flutter developer,21.0,Degree,Yes,No,9.0,No,4.0,calicut,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0
+265,mobile development using flutter,mobile developer,22.0,Degree,No,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+266,mern stack,mern stack developer,22.0,Degree,Yes,No,10.0,No,2.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5.67
+267,mern stack,software engineer,24.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+268,machine learning,junior software engineer,22.0,Degree,No,No,13.0,Yes,0.0,wfh,Yes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+269,mobile development using flutter,software engineer,22.0,Degree,Yes,No,10.0,Yes,5.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+270,mern stack,clinical data programming associate,21.0,No Degree,Yes,No,7.0,No,7.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+271,mern stack,backend developer,22.0,Degree,Yes,No,12.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.5
+272,mern stack,mern stack developer,22.0,No Degree,No,No,10.0,No,7.0,hyderabad,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+273,mobile development using flutter,associate flutter developer,22.0,No Degree,Yes,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+274,mobile development using flutter,junior software engineer,22.0,No Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+275,golang,software engineer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+276,web development using python django,python developer,23.0,Degree,Yes,No,12.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.0
+277,mobile development using flutter,junior android developer,23.0,No Degree,No,No,12.0,Yes,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+278,mern stack,fullstack developer,23.0,No Degree,No,No,13.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+279,mern stack,fullstack developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+280,mern stack,fullstack developer,22.0,Degree,No,No,12.0,Yes,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+281,web development using python django,data engineer intern,25.0,Degree,No,No,8.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.4
+282,mobile development using flutter,flutter developer,22.0,Degree,No,No,14.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+283,mobile development using flutter,android developer,22.0,No Degree,Yes,No,10.0,No,7.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+284,mern stack,software developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+285,web development using python django,junior software developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+286,mern stack,fullstack developer,23.0,No Degree,No,No,16.0,Yes,4.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.6
+287,web development using python django,software engineer,21.0,Degree,Yes,No,12.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+288,mern stack,associate software engineer,23.0,Degree,Yes,No,10.0,No,1.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.5
+289,mern stack,fullstack developer,22.0,Degree,Yes,No,12.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+290,mern stack,software engineer,23.0,No Degree,No,No,9.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+291,mern stack,node js engineer,23.0,Degree,No,No,7.0,Yes,0.0,pune,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4.2
+292,golang,golang devleoper,22.0,No Degree,Yes,No,13.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+293,mern stack,fullstack developer,21.0,Degree,Yes,No,12.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+294,mobile development using flutter,flutter trainer,26.0,Degree,No,No,10.0,No,1.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+295,mern stack,junior react developer,22.0,Degree,Yes,No,7.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+296,mern stack,associate software engineer,22.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+297,web development using python django,python developer,22.0,No Degree,No,No,7.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+298,mern stack,junior full stack developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+299,mern stack,software engineer,22.0,Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+300,mobile development using flutter,mobile app developer,23.0,No Degree,Yes,No,9.0,Yes,4.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+301,mern stack,software engineer,22.0,No Degree,No,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.5
+302,mern stack,junior software engineer,23.0,Degree,Yes,No,10.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+303,mern stack,junior fullstack developer,23.0,No Degree,No,No,9.0,No,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.8
+304,mern stack,junior software engineer,22.0,Degree,Yes,No,7.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+305,web development using python django,python full stack developer intern,24.0,Degree,No,No,10.0,No,1.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+306,mern stack,fullstack developer,23.0,Degree,Yes,No,9.0,Yes,2.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4.8
+307,mern stack,nodejs developer,22.0,Degree,Yes,No,8.0,Yes,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,4.5
+308,golang,associate software engineer,25.0,Degree,No,No,7.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.1
+309,data science,data scientist,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+310,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+311,mobile development using flutter,flutter developer,23.0,No Degree,No,No,12.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+312,golang,project architect,22.0,Degree,No,No,12.0,No,2.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+313,mern stack,software development engineer i,21.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+314,mobile development using flutter,associate software engineer,25.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+315,mobile development using flutter,junior flutter developer,22.0,Degree,Yes,No,10.0,Yes,5.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.4
+316,mobile development using flutter,software engineer,23.0,No Degree,No,No,9.0,No,1.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+317,mobile development using flutter,software developer,23.0,No Degree,No,No,12.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+318,mern stack,fullstack developer,24.0,No Degree,Yes,No,10.0,Yes,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+319,web development using python django + angular,full stack developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+320,mean stack,trainee engineer,22.0,Degree,Yes,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+321,mobile development using flutter,software engineer,23.0,No Degree,Yes,No,10.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+322,mobile development using flutter,senior flutter developer,22.0,No Degree,Yes,No,10.0,No,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.4
+323,mobile development using flutter,software engineer,22.0,No Degree,Yes,No,8.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+324,mern stack,fullstack developer,23.0,Degree,No,No,10.0,Yes,2.0,bangalore,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.5
+325,mobile development using flutter,junior flutter developer,23.0,Degree,Yes,No,7.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+326,mern stack,software development engineer,23.0,Degree,No,No,9.0,Yes,2.0,bangalore,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0
+327,mobile development using android kotlin,android developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,7.0
+328,mern stack,mern stack developer,22.0,No Degree,Yes,No,7.0,Yes,7.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+329,mern stack,software engineer,21.0,No Degree,Yes,No,9.0,Yes,5.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.8
+330,web development using python django,software development engineer,27.0,Degree,Yes,No,7.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+331,mern stack,junior full stack developer,25.0,No Degree,Yes,No,9.0,No,7.0,bangalore,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+332,web development using python django + react,junior full stack developer,31.0,Degree,No,No,8.0,No,0.0,wfh,No,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4
+333,machine learning,machine learning engineer,23.0,No Degree,Yes,No,9.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+334,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,9.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.2
+335,mern stack,software development engineer,24.0,Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.96
+336,mern stack,software developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+337,mern stack,mern stack developer,23.0,Degree,No,No,7.0,Yes,2.0,manjeri,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+338,mobile development using flutter,junior software developer,22.0,Degree,No,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+339,mobile development using flutter,flutter developer,23.0,No Degree,No,No,9.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+340,mern stack,junior fullstack developer,22.0,No Degree,No,No,10.0,No,7.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+341,mern stack,software engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+342,mern stack,software development engineer,22.0,No Degree,No,No,10.0,No,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.2
+343,web development using python django + react,software engineer,22.0,Degree,No,No,11.0,Yes,1.0,chennai,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+344,mern stack,fullstack developer,23.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4.2
+345,mean stack,mean stack developer,22.0,No Degree,Yes,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+346,mern stack,associate software engineer,24.0,Degree,No,No,10.0,No,0.0,pune,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6
+347,web development using python django,bakcend developer,22.0,No Degree,Yes,No,7.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+348,web development using python django,django developer,22.0,Degree,Yes,No,9.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.9
+349,mern stack,associate software engineer,21.0,No Degree,Yes,No,7.0,Yes,4.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.5
+350,mean stack,junior fullstack developer,22.0,No Degree,Yes,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.04
+351,mern stack,fullstack developer,24.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,bangalore,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0
+352,mern stack,mern stack developer,22.0,Degree,Yes,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+353,mern stack,junior software engineer,23.0,Degree,Yes,No,9.0,Yes,5.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2.5
+354,web development using python django,junior software developer,24.0,Degree,No,No,12.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.5
+355,mobile development using flutter,associate software,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+356,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+357,mobile development using flutter,software engineer,22.0,No Degree,Yes,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+358,web development using python django,software engineer,22.0,No Degree,Yes,No,7.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.3
+359,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+360,golang,associate product engineer,23.0,No Degree,Yes,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+361,web development using python django,associate product engineer,22.0,No Degree,Yes,No,7.0,No,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+362,mern stack,mern stack developer,25.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+363,mean stack,fullstack developer,23.0,No Degree,No,No,14.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+364,mern stack,fullstack developer,24.0,No Degree,No,No,16.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+365,mern stack,fullstack developer,22.0,Degree,No,No,12.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+366,mern stack,fullstack developer,23.0,Degree,No,No,14.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+367,mobile development using flutter,flutter developer,22.0,No Degree,No,No,12.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.4
+368,mern stack,mern stack developer,26.0,Degree,No,No,7.0,No,0.0,calicut,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+369,web development using python django,backend developer,24.0,No Degree,No,No,9.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+370,mobile development using flutter,junior developer,21.0,No Degree,No,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+371,mobile development using flutter,flutter nodejs developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.4
+372,mern stack,node js developer,24.0,No Degree,No,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+373,web development using python django,python developer,22.0,No Degree,No,No,13.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+374,web development using python django,associate product engineer,22.0,No Degree,Yes,No,8.0,Yes,5.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+375,mean stack,fullstack developer,23.0,No Degree,No,No,11.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+376,mern stack,software developer,23.0,No Degree,Yes,No,11.0,Yes,5.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+377,mern stack,mern stack developer,21.0,No Degree,No,No,10.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+378,mobile development using flutter,flutter developer,22.0,Degree,No,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+379,mern stack,fullstack developer,22.0,No Degree,No,No,13.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+380,mern stack,backend developer,22.0,Degree,Yes,No,9.0,Yes,7.0,ernakulam,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,4.0
+381,mern stack,software programmer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+382,mern stack,web developer,22.0,No Degree,Yes,No,10.0,No,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+383,mern stack,mern stack developer,22.0,No Degree,Yes,No,8.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+384,mern stack,software developer,22.0,No Degree,Yes,No,9.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+385,mobile development using flutter,software developer,22.0,No Degree,No,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+386,golang,junior developer,25.0,No Degree,No,Yes [ Non IT industry ],12.0,No,0.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.7
+387,web development using python django,software developer,23.0,Degree,Yes,No,10.0,No,1.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+388,mern stack,software developer,21.0,No Degree,Yes,No,9.0,No,5.0,hyderabad,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.75
+389,mobile development using flutter,junior developer,22.0,No Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.4
+390,mern stack,associate product engineer,23.0,No Degree,Yes,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+391,web development using python django,flutter developer,21.0,Degree,Yes,No,9.0,Yes,4.0,calicut,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6
+392,mern stack,executive placement officer,22.0,Degree,Yes,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+393,mobile development using flutter,software engineer,22.0,No Degree,Yes,No,10.0,Yes,5.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+394,golang,golang developer,22.0,Degree,Yes,No,9.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+395,mobile development using flutter,junior flutter developer,22.0,No Degree,No,No,14.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.25
+396,mobile development using flutter,software developer,22.0,No Degree,Yes,No,9.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+397,mobile development using flutter,flutter developer trainee,22.0,No Degree,No,No,11.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.3
+398,mern stack,fullstack developer,24.0,No Degree,No,No,9.0,No,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+399,mern stack,trainee software engineer,22.0,Degree,Yes,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.5
+400,mobile development using flutter,flutter developer,23.0,Degree,Yes,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+401,mern stack,react developer,22.0,Degree,Yes,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+402,mern stack,fullstack developer,24.0,Degree,No,No,7.0,No,0.0,manjeri,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0
+403,mern stack,junior web developer,22.0,No Degree,No,No,9.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+404,mern stack,software developer,21.0,Degree,Yes,No,10.0,No,4.0,nagercoil,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.5
+405,mern stack,associate product engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,6.0
+406,mern stack,associate developer,21.0,No Degree,Yes,No,10.0,No,7.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+407,mern stack,mern stack developer,22.0,Degree,No,No,10.0,No,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+408,mobile development using flutter,flutter developer,23.0,Degree,Yes,No,10.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+409,mern stack,software engineer,22.0,Degree,No,No,10.0,Yes,5.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+410,devops,devops trainee,21.0,Degree,No,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+411,mern stack,project engineer backend,21.0,Degree,No,No,9.0,Yes,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.3
+412,mern stack,mern stack developer,22.0,Degree,No,No,9.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+413,cybersecurity,junior security analyst,23.0,No Degree,No,No,10.0,No,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,2.0
+414,mern stack,mern stack developer,22.0,Degree,No,No,9.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+415,mern stack,nodejs developer,22.0,No Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.28
+416,mern stack,react developer,23.0,Degree,Yes,No,10.0,Yes,5.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,3.0
+417,mern stack,junior developer,22.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+418,mobile development using flutter,flutter developer,23.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,1.8
+419,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5.5
+420,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,13.0,Yes,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1.8
+421,mern stack,junior mern stack developer,22.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+422,web development using python django + react,data analyst,24.0,No Degree,Yes,No,10.0,Yes,5.0,manjeri,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.0
+423,golang,golang developer,22.0,Degree,Yes,No,9.0,Yes,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,6.0
+424,web development using python django,associate software engineer,22.0,No Degree,Yes,No,9.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+425,mern stack,fullstack developer,24.0,Degree,No,No,16.0,Yes,1.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,4.5
+426,mern stack,fullstack developer,22.0,No Degree,No,No,12.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.8
+427,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,7.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.28
+428,mobile development using flutter,flutter developer,23.0,Degree,No,No,10.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+429,mern stack,trainee software developer,22.0,No Degree,Yes,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+430,web development using python django + react,python developer,22.0,No Degree,No,No,13.0,Yes,5.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.4
+431,mern stack,junior programmer analyst,23.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+432,mern stack,mern stack developer,22.0,Degree,No,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+433,web development using python django,software engineer,23.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+434,web development using python django + react,backend developer,25.0,No Degree,No,No,11.0,No,0.0,wfh,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,3.6
+435,mern stack,trainee software developer,22.0,No Degree,No,No,10.0,No,7.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.7
+436,mobile development using flutter,flutter developer,22.0,Degree,No,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+437,mern stack,associate software engineer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,bangalore,Yes,1,0,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,3.38
+438,mern stack,software engineer,22.0,No Degree,Yes,No,7.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.0
+439,mern stack,trainee software developer,22.0,No Degree,Yes,No,12.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+440,mern stack,product engineer associate,22.0,Degree,Yes,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,2.16
+441,web development using python django + react,software developer engineer,31.0,Diploma,No,Yes [ Non IT industry ],12.0,Yes,2.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0
+442,cybersecurity,soc engineer,22.0,No Degree,Yes,No,9.0,No,7.0,bangalore,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,12.0
+443,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,7.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,8.7
+444,mern stack,software developer,22.0,No Degree,Yes,No,9.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+445,mern stack,fullstack developer,23.0,Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,6.0
+446,web development using python django + react,python backend developer,22.0,No Degree,No,No,9.0,Yes,7.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+447,mern stack,software engineer,22.0,No Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+448,mern stack,fullstack developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.8
+449,web development using python django,python developer,25.0,Diploma,No,Yes [ Non IT industry ],13.0,Yes,2.0,hyderabad,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.2
+450,mobile development using flutter,junior flutter developer,22.0,No Degree,Yes,No,9.0,Yes,3.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+451,mern stack,nodejs developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+452,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,9.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+453,mern stack,fullstack developer,22.0,No Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.56
+454,mern stack,associate product engineer,22.0,Degree,Yes,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+455,mern stack,frontend developer,22.0,No Degree,No,No,10.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+456,mern stack,fullstack developer,31.0,Degree,No,Yes [ Non IT industry ],12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+457,mern stack,fullstack developer,24.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,bangalore,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.6
+458,mern stack,associate product engineer,21.0,Degree,Yes,No,10.0,No,4.0,calicut,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5.0
+459,mern stack,software engineer,24.0,Degree,No,No,10.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+460,mern stack,mern stack developer,23.0,Degree,Yes,No,10.0,Yes,1.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3.0
+461,mern stack,fullstack developer,22.0,Degree,Yes,No,9.0,Yes,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+462,mern stack,junior software developer,21.0,Degree,No,No,10.0,No,3.0,nagercoil,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+463,mern stack,junior react developer,19.0,No Degree,No,No,10.0,No,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+464,mern stack,business development executive (bde),23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2.53
+465,data science,software development (apprentice),22.0,No Degree,Yes,No,9.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.91
+466,web development using python django + react,python developer,24.0,No Degree,No,No,9.0,Yes,5.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.6
+467,mern stack,fullstack developer,19.0,No Degree,No,Bca dropout ,9.0,No,0.0,nagercoil,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4
+468,mobile development using flutter,flutter developer,24.0,Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+469,web development using python django + react,python developer,23.0,Degree,No,No,11.0,Yes,2.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,10.0
+470,mern stack,fullstack developer,25.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+471,mern stack,mern stack developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+472,mern stack,web developer,22.0,Degree,No,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.8
+473,web development using python django + react,fullstack developer,22.0,Degree,No,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.24
+474,mern stack,software developer,24.0,Degree,Yes,No,12.0,Yes,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+475,mobile development using flutter,flutter developer,22.0,Degree,No,No,12.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+476,mobile development using flutter,flutter developer,22.0,Degree,No,No,10.0,No,3.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.8
+477,machine learning,research assistant (machine learning),22.0,No Degree,No,No,12.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+478,mern stack,fullstack developer,21.0,Degree,No,No,12.0,No,2.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.5
+479,mern stack,software engineer,22.0,No Degree,No,No,12.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.8
+480,mern stack,frontend developer,21.0,Degree,Yes,No,10.0,No,7.0,manjeri,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0
+481,mobile development using flutter,flutter developer,22.0,Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.44
+482,golang,golang developer,22.0,No Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.6
+483,web development using python django + react,python django developer,22.0,No Degree,No,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+484,mern stack,software developer trainee,23.0,Degree,Yes,No,10.0,No,0.0,wfh,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.82
+485,web development using python django,python developer,22.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.56
+486,mern stack,fullstack developer,23.0,Degree,No,No,11.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+487,mern stack,web developer,22.0,Degree,Yes,No,10.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.56
+488,mern stack,web developer,23.0,Degree,Yes,No,9.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.56
+489,mern stack,software engineer,21.0,No Degree,No,No,9.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,6.0
+490,mern stack,software engineer,23.0,No Degree,No,No,11.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+491,web development using python django + react,software engineer,23.0,No Degree,Yes,No,7.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+492,mern stack,junior software developer,22.0,Degree,Yes,No,11.0,Yes,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+493,mern stack,software engineer,21.0,No Degree,No,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.75
+494,mern stack,software developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+495,mern stack,associated product engineer,22.0,Degree,Yes,No,9.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+496,web development using python django + react,full stack developer,23.0,Degree,No,No,13.0,Yes,0.0,wfh,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,3.55
+497,mern stack,fullstack developer,23.0,No Degree,No,No,13.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+498,mern stack,intern - frontend developer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+499,mobile development using flutter,junior flutter developer,21.0,No Degree,Yes,No,7.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.25
+500,mean stack,fullstack developer,22.0,No Degree,Yes,No,9.0,Yes,5.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.0
+501,mern stack,mern stack developer,22.0,Degree,No,No,10.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+502,mern stack,fullstack developer,24.0,Degree,No,No,13.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+503,mern stack,software engineer,22.0,Degree,Yes,No,9.0,Yes,4.0,ernakulam,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+504,mern stack,software developer,23.0,No Degree,No,No,13.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+505,web development using python django + react,fullstack developer,24.0,Degree,No,No,13.0,Yes,1.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.55
+506,web development using python django + react,full stack developer,22.0,No Degree,No,No,13.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+507,mobile development using flutter,junior app developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,5.6
+508,mobile development using flutter,flutter developer,22.0,Degree,No,No,11.0,Yes,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.2
+509,mern stack,trainee software engineer,22.0,Degree,Yes,No,9.0,Yes,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+510,mern stack,mern stack developer,22.0,Degree,No,No,9.0,Yes,5.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+511,mern stack,mern stack developer,24.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+512,mean stack,developer trainee,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5
+513,mern stack,fullstack developer,22.0,Degree,Yes,No,10.0,Yes,2.0,ernakulam,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+514,mobile development using flutter,flutter developer,22.0,Degree,No,No,14.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+515,mern stack,analyst (development),22.0,Degree,No,No,10.0,No,4.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+516,mern stack,fullstack developer,21.0,Degree,No,No,16.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.36
+517,mobile development using flutter,flutter developer,22.0,No Degree,No,No,12.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+518,mobile development using flutter,software engineer,22.0,Degree,Yes,No,12.0,No,2.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,5.5
+519,mern stack,associate software engineer,22.0,No Degree,Yes,No,10.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+520,mern stack,fullstack developer,19.0,No Degree,No,No,12.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,3.0
+521,web development using python django + react,junior backend developer,25.0,No Degree,No,No,15.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+522,mern stack,mern stack developer,21.0,Degree,No,No,11.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+523,mern stack,fullstack developer,23.0,No Degree,No,No,15.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.0
+524,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+525,mern stack,fullstack developer,23.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+526,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.8
+527,devops,devops engineer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,0.0,bangalore,Yes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.36
+528,mern stack,react developer,22.0,Degree,No,No,12.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+529,mern stack,mern stack developer,22.0,No Degree,No,No,13.0,Yes,5.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,4.2
+530,mern stack,mern stack developer,23.0,Degree,No,No,7.0,Yes,5.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+531,mern stack,tech lead,22.0,Degree,Yes,No,9.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.5
+532,mean stack,mean stack developer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+533,mern stack,mern stack developer,22.0,No Degree,No,No,9.0,No,3.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+534,mern stack,junior fullstack developer,22.0,No Degree,Yes,No,10.0,No,2.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+535,mern stack,fullstack developer,22.0,No Degree,No,No,15.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+536,web development using python django + react,junior django developer,23.0,No Degree,No,No,11.0,Yes,7.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,4.25
+537,mern stack,software developer,21.0,Degree,Yes,No,10.0,No,7.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+538,golang,devops engineer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+539,mern stack,fullstack developer,22.0,Degree,No,No,13.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+540,mean stack,angular developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,7.5
+541,golang,software development engineer 1,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.5
+542,golang,devsecops,23.0,No Degree,Yes,No,9.0,Yes,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+543,mern stack,junior react developer,22.0,No Degree,Yes,No,10.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+544,mern stack,react developer,21.0,No Degree,Yes,No,10.0,No,7.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.8
+545,mobile development using flutter,flutter developer,23.0,Degree,No,No,12.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+546,mobile development using flutter,flutter developer,22.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.4
+547,machine learning,junior ml engineer,22.0,No Degree,Yes,No,10.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+548,mern stack,software engineer,21.0,Degree,Yes,No,10.0,No,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,5.0
+549,mern stack,nodejs developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,chennai,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.25
+550,mern stack,software developer,24.0,No Degree,No,No,10.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,3.0
+551,web development using python django + react,application developer,24.0,Degree,Yes,No,9.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+552,mern stack,mern stack developer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+553,mern stack,node js developer,22.0,No Degree,Yes,No,12.0,Yes,7.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.4
+554,web development using python django + react,python developer,23.0,No Degree,No,No,12.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+555,mern stack,software engineer,22.0,No Degree,Yes,No,8.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.5
+556,mern stack,software engineer,21.0,No Degree,No,No,9.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,5.4
+557,mern stack,junior react developer,21.0,Degree,No,No,12.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+558,mern stack,junior developer,23.0,No Degree,Yes,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+559,mean stack,mean stack developer,22.0,Degree,Yes,No,10.0,No,2.0,wfh,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,9.4
+560,mean stack,mean stack developer,22.0,Degree,Yes,No,9.0,No,4.0,wfh,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,9.4
+561,mern stack,trainee software engineer,22.0,Degree,No,No,14.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+562,mobile development using flutter,flutter developer,24.0,Degree,No,No,10.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.36
+563,mern stack,associate software engineer,22.0,No Degree,No,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+564,web development using python django + react,junior web developer,24.0,No Degree,No,Yes [ Non IT industry ],13.0,Yes,1.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+565,web development using python django,python full stack developer,22.0,Degree,No,No,11.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+566,mern stack,fullstack developer,24.0,Degree,No,No,16.0,Yes,4.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.24
+567,mern stack,react developer,23.0,No Degree,No,Yes [ Non IT industry ],16.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,1,1,0,1,1,1,0,0,0,0,3.6
+568,mern stack,react developer,22.0,No Degree,No,No,12.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+569,mean stack,software engineer,22.0,No Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.5
+570,mern stack,backend developer,22.0,No Degree,Yes,No,11.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+571,mern stack,software engineer,21.0,No Degree,No,No,10.0,No,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.75
+572,machine learning,junior computer vision developer,22.0,No Degree,No,No,10.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+573,mern stack,fullstack developer,19.0,No Degree,No,No,12.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,3.6
+574,mern stack,junior fullstack developer,21.0,Degree,No,No,10.0,No,3.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+575,mern stack,software engineer,21.0,No Degree,Yes,No,8.0,Yes,5.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+576,devops,associate software engineer,22.0,Degree,Yes,No,10.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.5
+577,devops,devops engineer,21.0,No Degree,No,No,12.0,No,4.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+578,mern stack,fullstack developer,22.0,No Degree,No,No,11.0,No,7.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.6
+579,mern stack,frontend developer,21.0,Degree,Yes,No,10.0,No,7.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.14
+580,mern stack,junior developer,23.0,Degree,No,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+581,mern stack,junior developer,23.0,Degree,No,No,10.0,No,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+582,mern stack,software engineer,22.0,No Degree,No,No,9.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+583,mern stack,fullstack developer,24.0,Degree,No,No,16.0,Yes,4.0,bangalore,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,4.0
+584,mern stack,fullstack developer,23.0,Degree,No,No,13.0,Yes,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+585,mern stack,fullstack developer,24.0,No Degree,No,Yes [ Non IT industry ],15.0,Yes,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+586,mern stack,junior software developer,22.0,Degree,Yes,No,10.0,Yes,3.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.2
+587,mean stack,fullstack developer,22.0,Degree,Yes,No,10.0,No,7.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,6.0
+588,mern stack,fullstack developer,23.0,No Degree,No,Yes [ Non IT industry ],11.0,No,7.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,11.5
+589,cybersecurity,cyber security engineer,23.0,No Degree,No,No,10.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+590,machine learning,junior machine learning engineer,23.0,No Degree,No,No,10.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+591,mern stack,trainee software engineer,23.0,Degree,No,No,11.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+592,web development using python django + react,full stack engineer,23.0,Degree,Yes,No,10.0,Yes,2.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.5
+593,mern stack,fullstack developer,23.0,No Degree,Yes,No,10.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+594,mern stack,junior nodejs developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,30.0
+595,mern stack,junior software developer,21.0,Degree,No,No,12.0,No,5.0,hyderabad,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,3.0
+596,mern stack,software engineer,23.0,Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+597,mean stack,frontend developer,21.0,No Degree,No,No,10.0,No,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+598,mern stack,software engineer,21.0,No Degree,No,No,9.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.0
+599,mern stack,full stack developer trainee,23.0,Degree,Yes,No,9.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+600,mern stack,trainee software engineer,22.0,Degree,Yes,No,12.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+601,mern stack,trainee software engineer,19.0,No Degree,No,Bca dropout ,12.0,No,0.0,nagercoil,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+602,mern stack,junior programmer analyst,27.0,Degree,No,Yes [ Non IT industry ],11.0,No,2.0,bangalore,Yes,1,0,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,1,1,1,1,0,0,1,4.0
+603,mern stack,full stack developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.5
+604,mern stack,mern stack trainer,21.0,Degree,No,No,10.0,No,7.0,manjeri,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,3.0
+605,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,12.0,Yes,3.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+606,mobile development using flutter,software developer,22.0,No Degree,No,No,12.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.84
+607,mern stack,software engineer,22.0,Degree,No,No,10.0,No,1.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.24
+608,mern stack,junior mern stack developer,22.0,Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.86
+609,web development using python django + react,junior python developer,22.0,No Degree,No,No,7.0,Yes,5.0,bangalore,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0
+610,mern stack,junior software developer,22.0,No Degree,Yes,No,12.0,Yes,7.0,hyderabad,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.0
+611,mern stack,fullstack developer,22.0,Degree,No,No,15.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.36
+612,web development using python django + react,junior python developer,22.0,No Degree,No,No,14.0,Yes,5.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,3.6
+613,devops,junior devops engineer,23.0,Degree,No,No,11.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+614,mern stack,junior programmer analyst,21.0,No Degree,No,No,12.0,No,7.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+615,web development using python django + react,software engineer,24.0,No Degree,No,No,13.0,Yes,2.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+616,mobile development using flutter,flutter developer,22.0,No Degree,No,No,12.0,No,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+617,mobile development using flutter,flutter developer ,24.0,Degree,No,No,9.0,No,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.8
+618,mern stack,fullstack developer,23.0,No Degree,No,No,15.0,Yes,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.5
+619,mern stack,junior software developer,22.0,Degree,Yes,No,10.0,Yes,4.0,calicut,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.0
+620,mern stack,mern stack tutor,22.0,Degree,No,No,9.0,Yes,7.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,3.6
+621,mern stack,software developer,21.0,Degree,Yes,No,10.0,No,7.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+622,mern stack,trainee software engineer,21.0,Degree,Yes,No,10.0,No,4.0,others,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.8
+623,mern stack,junior software engineer,21.0,Degree,Yes,No,10.0,No,4.0,chennai,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,6.0
+624,mern stack,software engineer,23.0,Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+625,mobile development using flutter,flutter developer,23.0,Degree,No,No,10.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+626,mern stack,nodejs developer,23.0,No Degree,No,No,12.0,No,0.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.24
+627,mobile development using flutter,flutter developer,22.0,No Degree,No,No,12.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.9
+628,mobile development using flutter,flutter developer,22.0,Degree,No,No,11.0,Yes,0.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.24
+629,mobile development using flutter,flutter developer,22.0,No Degree,Yes,No,7.0,Yes,4.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.8
+630,mean stack,angular developer,23.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.3
+631,web development using python django + react,junior fullstack python developer,23.0,No Degree,No,No,12.0,Yes,4.0,manjeri,Yes,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,4.0
+632,mean stack,angular developer,22.0,No Degree,Yes,No,8.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.7
+633,mean stack,angular developer,22.0,No Degree,Yes,No,10.0,Yes,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.7
+634,web development using python django,member of technical staff,23.0,Degree,Yes,No,10.0,Yes,5.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.5
+635,mern stack,frontend developer,22.0,No Degree,No,No,12.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.6
+636,mobile development using flutter,flutter developer,22.0,Degree,No,No,13.0,Yes,0.0,wfh,Yes,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.0
+637,mern stack,application developer,22.0,No Degree,No,No,10.0,No,5.0,manjeri,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+638,mern stack,mobile developer,21.0,Degree,Yes,No,7.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,4.5
+639,mern stack,fullstack developer,22.0,No Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,5.0
+640,mern stack,application developer,21.0,Degree,Yes,No,9.0,No,4.0,calicut,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.5
+641,mern stack,mern stack developer,23.0,Degree,Yes,No,10.0,Yes,2.0,wfh,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0
+642,mobile development using flutter,flutter developer,23.0,No Degree,No,No,12.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.2
+643,mern stack,software development engineer,23.0,Degree,Yes,No,10.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.1
+644,mern stack,software development engineer,22.0,Degree,No,No,10.0,No,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.1
+645,golang,golang developer,21.0,No Degree,Yes,No,9.0,Yes,7.0,hyderabad,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,5.5
+646,devops,devops engineer,22.0,No Degree,Yes,No,9.0,No,2.0,bangalore,Yes,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,8.0
+647,mern stack,frontend engineer,22.0,No Degree,Yes,No,10.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,5.0
+648,mern stack,junior software developer,24.0,Degree,No,No,10.0,No,2.0,kochi,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,3.6
+649,mern stack,junior nodejs developer,22.0,Degree,No,No,11.0,No,4.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+650,golang,software engineer,22.0,Degree,Yes,No,10.0,Yes,7.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+651,web development using python django + react,junior software developer,22.0,Degree,No,No,12.0,Yes,0.0,bangalore,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+652,mern stack,l1 web developer,22.0,No Degree,Yes,No,9.0,Yes,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.6
+653,mobile development using flutter,flutter developer ,22.0,No Degree,No,No,9.0,Yes,5.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,4.4
+654,mern stack,mern stack developer,22.0,Degree,Yes,No,12.0,Yes,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.0
+655,mern stack,fullstack developer,22.0,No Degree,No,No,12.0,No,2.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+656,mern stack,fullstack developer,22.0,Degree,Yes,No,11.0,No,4.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,6.0
+657,mern stack,fullstack developer,22.0,Degree,Yes,No,10.0,Yes,5.0,chennai,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,4.2
+658,mobile development using flutter,flutter developer,22.0,No Degree,No,No,11.0,Yes,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+659,mern stack,junior software developer,22.0,No Degree,No,No,9.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,3.0
+660,mobile development using flutter,flutter developer,22.0,No Degree,No,No,10.0,No,7.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,3.6
+661,mern stack,junior fullstack developer,23.0,No Degree,No,No,11.0,No,3.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+662,web development using python django + react,junior developer,23.0,No Degree,No,No,12.0,Yes,7.0,manjeri,Yes,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.2
+663,web development using python django + react,junior developer,24.0,Degree,No,No,11.0,Yes,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,4.2
+664,mobile development using flutter,flutter developer,24.0,Degree,No,No,13.0,Yes,1.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+665,mern stack,mern stack developer,22.0,No Degree,No,No,10.0,No,4.0,bangalore,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,9.35
+666,mern stack,mern stack developer,21.0,Degree,Yes,No,10.0,No,4.0,others,Yes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,5.5
+667,mobile development using flutter,junior flutter developer,21.0,Degree,No,No,10.0,No,1.0,wfh,Yes,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
+668,web development using python django,junior software developer,22.0,No Degree,Yes,No,10.0,No,7.0,manjeri,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,1,1,0,6.0
+669,mobile development using flutter,flutter developer,24.0,No Degree,No,No,10.0,No,0.0,wfh,No,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,3.6
